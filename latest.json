@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-17T21:09:32Z",
+  "generated_at": "2026-08-17T22:05:26Z",
   "timezone": "UTC",
   "method": "current_price <= minimum of the available Galaxus price-history series",
   "profiles": [
@@ -25,7 +25,7 @@
         "search_url": "https://www.galaxus.ch/fr/search?q=cl%C3%A9+usb",
         "product_type": "Clé USB",
         "product_type_id": "104",
-        "source_total_count": 2201,
+        "source_total_count": 2219,
         "sort_orders": [
           "REBATE",
           "NUMBER_OF_SALES",
@@ -33,15 +33,15 @@
         ]
       },
       "stats": {
-        "candidate_count": 97,
-        "checked_count": 97,
-        "qualified_count": 8,
-        "returned_count": 8,
+        "candidate_count": 120,
+        "checked_count": 120,
+        "qualified_count": 9,
+        "returned_count": 9,
         "outcomes": {
-          "history_too_short": 4,
-          "not_low": 85,
+          "history_too_short": 7,
+          "not_low": 104,
           "tied_low": 2,
-          "new_low": 6
+          "new_low": 7
         },
         "error_samples": []
       },
@@ -171,6 +171,37 @@
           "current_price_since": "2026-08-08"
         },
         {
+          "relay_id": "UHJvZHVjdApkNjg2Mjc0NTg6MTo0MDY4MDI=",
+          "database_id": 68627458,
+          "name": "MEMORY DRIVE FLASH USB3.2/128GB MR1902",
+          "variant": "128 Go, USB-A",
+          "brand": "MediaRange",
+          "product_type": "Clé USB",
+          "current_price": 32.9,
+          "currency": "CHF",
+          "reference_price": 44.9,
+          "rebate_pct": 27.0,
+          "promotion_type": "SALES_PRICE_BEFORE",
+          "url": "https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb32128gb-mr1902-128-go-usb-a-cle-usb-68627458",
+          "image_url": "https://www.galaxus.ch/productimages/5/3/0/6/9/2/9/9/3/4/9/3/8/8/4/1/5/6/4/019ff84d-377a-75c0-8ae4-6fa2e9427b16",
+          "rating": 0.0,
+          "rating_count": 0,
+          "availability": "WITHIN39_DAYS",
+          "source_label": "Clé USB",
+          "low_status": "new_low",
+          "strict_new_low": true,
+          "tied_low": false,
+          "observed_historical_min": 32.9,
+          "prior_observed_min": 37.95,
+          "saving_vs_prior_min_pct": 13.31,
+          "saving_vs_reference_pct": 26.73,
+          "history_start": "2026-03-22",
+          "history_end": "2026-08-14",
+          "history_days": 148,
+          "history_points": 6,
+          "current_price_since": "2026-08-14"
+        },
+        {
           "relay_id": "UHJvZHVjdApkNDAxODEyNzA6MTo0MDY4MDI=",
           "database_id": 40181270,
           "name": "Clé USB MR935, USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1), argentée",
@@ -186,7 +217,7 @@
           "image_url": "https://www.galaxus.ch/productimages/7/8/7/3/8/1/0/9/9/5/2/9/6/5/7/9/6/2/2/019ff68f-1679-74f5-acb9-444556bafbe6",
           "rating": null,
           "rating_count": 0,
-          "availability": "WITHIN39_DAYS",
+          "availability": "WITHIN17_DAYS",
           "source_label": "Clé USB",
           "low_status": "new_low",
           "strict_new_low": true,
