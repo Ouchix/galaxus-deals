@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="color-scheme" content="light">
+  <title>Galaxus Price Watch</title>
+  <style>
+    :root { --ink:#17221b; --muted:#657067; --paper:#f5f3ed; --card:#fff; --line:#d8ddd6; --green:#175c3b; --lime:#c9f45b; --orange:#ff6b35; --blue:#d9efff; }
+    * { box-sizing:border-box; }
+    body { margin:0; color:var(--ink); background:var(--paper); font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    a { color:inherit; }
+    .shell { width:min(1440px,100%); margin:0 auto; padding:0 28px; }
+    header { padding:30px 0 22px; border-bottom:1px solid var(--line); background:rgba(245,243,237,.94); position:sticky; top:0; z-index:10; backdrop-filter:blur(12px); }
+    .header-row { display:flex; align-items:flex-end; justify-content:space-between; gap:24px; }
+    .identity { display:flex; gap:16px; align-items:center; }
+    .mark { width:48px; height:48px; border-radius:14px; background:var(--green); color:white; display:grid; place-items:center; font-weight:900; font-size:22px; box-shadow:inset 0 -4px rgba(0,0,0,.12); }
+    h1,h2,h3,p { margin-top:0; }
+    h1 { font-size:clamp(24px,3vw,40px); margin-bottom:3px; letter-spacing:-.04em; }
+    .identity p,.updated { color:var(--muted); margin:0; font-size:14px; }
+    .updated { text-align:right; }
+    .updated .live { display:inline-block; width:8px; height:8px; background:#24a761; border-radius:50%; margin-right:7px; box-shadow:0 0 0 4px #d8ecdf; }
+    nav { display:flex; gap:9px; overflow:auto; padding-top:20px; scrollbar-width:none; }
+    .profile-tab { white-space:nowrap; border:1px solid var(--line); background:white; border-radius:999px; padding:10px 16px; font:inherit; font-weight:700; cursor:pointer; }
+    .profile-tab.active { background:var(--ink); color:white; border-color:var(--ink); }
+    main { padding:54px 0 70px; }
+    .section-head { display:flex; justify-content:space-between; align-items:flex-end; gap:24px; }
+    .section-head h2 { font-size:clamp(32px,5vw,64px); line-height:.98; letter-spacing:-.055em; margin-bottom:12px; }
+    .section-head p:not(.eyebrow) { color:var(--muted); margin-bottom:0; }
+    .eyebrow { color:var(--green); text-transform:uppercase; letter-spacing:.14em; font-size:12px; font-weight:900; margin-bottom:12px; }
+    .controls { display:flex; gap:8px; }
+    .controls button { width:47px; height:47px; border:1px solid var(--ink); border-radius:50%; background:transparent; font-size:20px; cursor:pointer; }
+    .controls button:hover { background:var(--lime); }
+    .metrics { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:1px; background:var(--line); border:1px solid var(--line); border-radius:18px; overflow:hidden; margin:34px 0 10px; }
+    .metrics div { background:white; padding:18px 20px; display:flex; flex-direction:column; }
+    .metrics strong { font-size:25px; letter-spacing:-.04em; }
+    .metrics span { color:var(--muted); font-size:12px; margin-top:3px; }
+    .sample-note { color:var(--muted); font-size:12px; margin:0 0 22px; }
+    .carousel { display:grid; grid-auto-flow:column; grid-auto-columns:minmax(280px,calc((100% - 36px)/3)); gap:18px; overflow-x:auto; scroll-snap-type:x mandatory; scroll-behavior:smooth; padding:3px 3px 24px; scrollbar-color:var(--green) transparent; }
+    .product-card { scroll-snap-align:start; min-height:590px; border:1px solid var(--line); border-radius:24px; background:var(--card); padding:16px; display:flex; flex-direction:column; box-shadow:0 8px 22px rgba(30,44,34,.05); }
+    .card-topline { min-height:28px; display:flex; justify-content:space-between; align-items:center; gap:8px; }
+    .rank { color:var(--muted); font-size:13px; font-weight:800; }
+    .low-badge { padding:6px 9px; border-radius:999px; font-size:11px; font-weight:900; letter-spacing:.02em; }
+    .badge-new { background:var(--orange); color:white; }
+    .badge-tied { background:var(--blue); color:#174365; }
+    .product-image { height:220px; margin:13px 0 17px; display:grid; place-items:center; background:#fafafa; border-radius:16px; overflow:hidden; }
+    .product-image img { width:100%; height:100%; object-fit:contain; mix-blend-mode:multiply; }
+    .image-placeholder { width:80px; height:80px; border-radius:24px; background:var(--green); color:white; display:grid; place-items:center; font-size:38px; font-weight:900; }
+    .product-copy { display:flex; flex:1; flex-direction:column; }
+    .brand { color:var(--green); font-size:12px; font-weight:900; text-transform:uppercase; letter-spacing:.12em; }
+    h3 { font-size:22px; line-height:1.12; letter-spacing:-.035em; margin:7px 0 6px; }
+    .variant { color:var(--muted); min-height:38px; font-size:13px; margin-bottom:14px; }
+    .price-row { display:flex; align-items:baseline; gap:10px; margin-top:auto; }
+    .price-row strong { font-size:28px; letter-spacing:-.04em; }
+    .reference { color:var(--muted); text-decoration:line-through; font-size:13px; }
+    .insight { margin:5px 0 14px; font-size:12px; font-weight:800; color:var(--green); }
+    dl { border-top:1px solid var(--line); margin:0; padding-top:9px; font-size:11px; color:var(--muted); }
+    dl div { display:flex; justify-content:space-between; gap:12px; padding:3px 0; }
+    dt { font-weight:700; } dd { margin:0; text-align:right; }
+    .meta { display:flex; gap:12px; flex-wrap:wrap; color:var(--muted); font-size:11px; padding-top:10px; }
+    .product-link { display:flex; justify-content:space-between; margin-top:15px; padding:13px 15px; border-radius:13px; background:var(--ink); color:white; text-decoration:none; font-weight:800; font-size:13px; }
+    .product-link:hover { background:var(--green); }
+    .empty { grid-column:1/-1; min-height:260px; border:1px dashed var(--line); border-radius:24px; display:grid; place-content:center; gap:8px; text-align:center; color:var(--muted); padding:30px; }
+    .empty strong { color:var(--ink); font-size:20px; }
+    footer { border-top:1px solid var(--line); padding:28px 0 40px; color:var(--muted); font-size:12px; line-height:1.6; }
+    footer .footer-row { display:flex; justify-content:space-between; gap:30px; }
+    footer p { max-width:850px; margin:0; }
+    footer a { font-weight:800; color:var(--green); }
+    [hidden] { display:none !important; }
+    @media (max-width:800px) {
+      .shell { padding:0 16px; } header { padding-top:18px; } .header-row { align-items:flex-start; } .updated { display:none; }
+      .metrics { grid-template-columns:repeat(2,1fr); } .carousel { grid-auto-columns:min(84vw,340px); } .controls { display:none; }
+      .product-card { min-height:565px; } .footer-row { flex-direction:column; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="shell">
+      <div class="header-row">
+        <div class="identity"><div class="mark" aria-hidden="true">G</div><div><h1>Price Watch</h1><p>Les minima de prix observés sur Galaxus Suisse</p></div></div>
+        <p class="updated"><span class="live"></span>Mis à jour le 17 août 2026 à 21:09 UTC</p>
+      </div>
+      <nav aria-label="Profils de recherche"><button type="button" class="profile-tab active" data-profile="cles-usb" aria-pressed="true">Clés USB</button></nav>
+    </div>
+  </header>
+  <main class="shell">
+    <section class="profile-panel" data-panel="cles-usb">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Sélection du jour</p>
+          <h2>Clés USB</h2>
+          <p>Recherche « clé usb » · catégorie exacte « Clé USB »</p>
+        </div>
+        <div class="controls" aria-label="Navigation du carrousel">
+          <button type="button" data-direction="-1" aria-label="Produits précédents">←</button>
+          <button type="button" data-direction="1" aria-label="Produits suivants">→</button>
+        </div>
+      </div>
+      <div class="metrics">
+        <div><strong>97</strong><span>prix vérifiés</span></div>
+        <div><strong>8</strong><span>minima détectés</span></div>
+        <div><strong>2201</strong><span>références trouvées</span></div>
+        <div><strong>8</strong><span>cartes publiées</span></div>
+      </div>
+      <p class="sample-note">Échantillon multi-tri : les 97 candidats analysés ne constituent pas nécessairement toute la catégorie.</p>
+      <div class="carousel" tabindex="0" aria-label="Produits au plus bas historique">
+    <article class="product-card">
+      <div class="card-topline"><span class="rank">#1</span><span class="low-badge badge-new">Nouveau plus bas</span></div>
+      <div class="product-image"><img src="https://www.galaxus.ch/productimages/4/2/1/4/2/2/7/6/2/9/5/3/2/6/8/0/6/4/3/019ff881-ef05-7518-9940-a96304438984" alt="MEMORY DRIVE FLASH USB2 8GB/MR920" loading="lazy"></div>
+      <div class="product-copy">
+        <span class="brand">MediaRange</span>
+        <h3>MEMORY DRIVE FLASH USB2 8GB/MR920</h3>
+        <p class="variant">8 Go, USB-A</p>
+        <div class="price-row"><strong>CHF 9,25</strong></div>
+        <p class="insight">41.8 % sous l’ancien minimum observé</p>
+        <dl>
+          <div><dt>Historique</dt><dd>depuis le 22 mars 2026</dd></div>
+          <div><dt>Prix actuel depuis</dt><dd>le 14 août 2026</dd></div>
+        </dl>
+        <div class="meta"><span>Clé USB</span></div>
+      </div>
+      <a class="product-link" href="https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb2-8gbmr920-8-go-usb-a-cle-usb-68627460" target="_blank" rel="noopener noreferrer">Voir sur Galaxus <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="product-card">
+      <div class="card-topline"><span class="rank">#2</span><span class="low-badge badge-new">Nouveau plus bas</span></div>
+      <div class="product-image"><img src="https://www.galaxus.ch/productimages/7/4/6/3/4/1/3/9/9/5/6/1/8/4/5/6/0/1/7/019ff677-a5fa-7c9a-850a-ed139b1cba89" alt="MEMORY DRIVE FLASH USB-C 32GB/MR1952" loading="lazy"></div>
+      <div class="product-copy">
+        <span class="brand">MediaRange</span>
+        <h3>MEMORY DRIVE FLASH USB-C 32GB/MR1952</h3>
+        <p class="variant">32 Go, USB-C</p>
+        <div class="price-row"><strong>CHF 9,60</strong></div>
+        <p class="insight">35.1 % sous l’ancien minimum observé</p>
+        <dl>
+          <div><dt>Historique</dt><dd>depuis le 6 mai 2026</dd></div>
+          <div><dt>Prix actuel depuis</dt><dd>le 13 août 2026</dd></div>
+        </dl>
+        <div class="meta"><span>Clé USB</span></div>
+      </div>
+      <a class="product-link" href="https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb-c-32gbmr1952-32-go-usb-c-cle-usb-54671597" target="_blank" rel="noopener noreferrer">Voir sur Galaxus <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="product-card">
+      <div class="card-topline"><span class="rank">#3</span><span class="low-badge badge-new">Nouveau plus bas</span></div>
+      <div class="product-image"><img src="https://www.galaxus.ch/productimages/3/6/7/6/7/4/1/4/2/6/8/2/1/4/6/9/3/3/4/019ff7de-f878-77c6-90e1-f388e25c6d77" alt="MEMORY DRIVE FLASH USB3.2/256GB MR1903" loading="lazy"></div>
+      <div class="product-copy">
+        <span class="brand">MediaRange</span>
+        <h3>MEMORY DRIVE FLASH USB3.2/256GB MR1903</h3>
+        <p class="variant">256 Go, USB-A</p>
+        <div class="price-row"><strong>CHF 67,90</strong><span class="reference">CHF 104,95</span></div>
+        <p class="insight">27.7 % sous l’ancien minimum observé</p>
+        <dl>
+          <div><dt>Historique</dt><dd>depuis le 22 mars 2026</dd></div>
+          <div><dt>Prix actuel depuis</dt><dd>le 14 août 2026</dd></div>
+        </dl>
+        <div class="meta"><span aria-label="Note 0.0 sur 5">★ 0.0</span><span>0 avis</span><span>Clé USB</span></div>
+      </div>
+      <a class="product-link" href="https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb32256gb-mr1903-256-go-usb-a-cle-usb-68627457" target="_blank" rel="noopener noreferrer">Voir sur Galaxus <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="product-card">
+      <div class="card-topline"><span class="rank">#4</span><span class="low-badge badge-new">Nouveau plus bas</span></div>
+      <div class="product-image"><img src="https://www.galaxus.ch/productimages/8/8/2/3/8/4/1/3/6/7/4/1/3/7/3/0/8/5/1/019fd86f-a519-7ab7-af0c-c3ff237f1c0e" alt="JUMPDRIVE S80 2X32GB USB 3.1 PENDRIVE RETRATTILE" loading="lazy"></div>
+      <div class="product-copy">
+        <span class="brand">Lexar</span>
+        <h3>JUMPDRIVE S80 2X32GB USB 3.1 PENDRIVE RETRATTILE</h3>
+        <p class="variant">32 Go, USB-A</p>
+        <div class="price-row"><strong>CHF 38,90</strong><span class="reference">CHF 53,90</span></div>
+        <p class="insight">25.1 % sous l’ancien minimum observé</p>
+        <dl>
+          <div><dt>Historique</dt><dd>depuis le 19 mars 2026</dd></div>
+          <div><dt>Prix actuel depuis</dt><dd>le 8 août 2026</dd></div>
+        </dl>
+        <div class="meta"><span aria-label="Note 3.0 sur 5">★ 3.0</span><span>1 avis</span><span>Clé USB</span></div>
+      </div>
+      <a class="product-link" href="https://www.galaxus.ch/fr/s1/product/lexar-jumpdrive-s80-2x32gb-usb-31-pendrive-retrattile-32-go-usb-a-cle-usb-68458862" target="_blank" rel="noopener noreferrer">Voir sur Galaxus <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="product-card">
+      <div class="card-topline"><span class="rank">#5</span><span class="low-badge badge-new">Nouveau plus bas</span></div>
+      <div class="product-image"><img src="https://www.galaxus.ch/productimages/7/8/7/3/8/1/0/9/9/5/2/9/6/5/7/9/6/2/2/019ff68f-1679-74f5-acb9-444556bafbe6" alt="Clé USB MR935, USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1), argentée" loading="lazy"></div>
+      <div class="product-copy">
+        <span class="brand">MediaRange</span>
+        <h3>Clé USB MR935, USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1), argentée</h3>
+        <p class="variant">16 Go, USB-A, USB-C</p>
+        <div class="price-row"><strong>CHF 10,20</strong></div>
+        <p class="insight">12.1 % sous l’ancien minimum observé</p>
+        <dl>
+          <div><dt>Historique</dt><dd>depuis le 22 novembre 2023</dd></div>
+          <div><dt>Prix actuel depuis</dt><dd>le 13 août 2026</dd></div>
+        </dl>
+        <div class="meta"><span>Clé USB</span></div>
+      </div>
+      <a class="product-link" href="https://www.galaxus.ch/fr/s1/product/mediarange-cle-usb-mr935-usb-type-a-usb-type-c-32-gen-1-31-gen-1-argentee-16-go-usb-a-usb-c-cle-usb-40181270" target="_blank" rel="noopener noreferrer">Voir sur Galaxus <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="product-card">
+      <div class="card-topline"><span class="rank">#6</span><span class="low-badge badge-new">Nouveau plus bas</span></div>
+      <div class="product-image"><img src="https://www.galaxus.ch/productimages/4/3/9/0/5/8/3/2/8/6/3/3/8/9/4/5/5/1/0198e6bc-93e0-7201-b7d3-8ec4af55b884" alt="Rotate USB 3.0" loading="lazy"></div>
+      <div class="product-copy">
+        <span class="brand">Hama</span>
+        <h3>Rotate USB 3.0</h3>
+        <p class="variant">128 Go, USB-A</p>
+        <div class="price-row"><strong>CHF 7,90</strong><span class="reference">CHF 12,90</span></div>
+        <p class="insight">4.2 % sous l’ancien minimum observé</p>
+        <dl>
+          <div><dt>Historique</dt><dd>depuis le 6 mai 2021</dd></div>
+          <div><dt>Prix actuel depuis</dt><dd>le 17 août 2026</dd></div>
+        </dl>
+        <div class="meta"><span aria-label="Note 4.6 sur 5">★ 4.6</span><span>366 avis</span><span>Clé USB</span></div>
+      </div>
+      <a class="product-link" href="https://www.galaxus.ch/fr/s1/product/hama-rotate-usb-30-128-go-usb-a-cle-usb-15800665" target="_blank" rel="noopener noreferrer">Voir sur Galaxus <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="product-card">
+      <div class="card-topline"><span class="rank">#7</span><span class="low-badge badge-tied">Plus bas égalé</span></div>
+      <div class="product-image"><img src="https://www.galaxus.ch/productimages/8/1/1/5/2/7/5/3/0/6/4/2/5/0/7/3/2/5/7/01993d73-7926-7234-9757-5286a1dba0b0" alt="C-Pen Długopis z pendrivem USB-C 32GB żółty/yellow LS101YF" loading="lazy"></div>
+      <div class="product-copy">
+        <span class="brand">Lexon</span>
+        <h3>C-Pen Długopis z pendrivem USB-C 32GB żółty/yellow LS101YF</h3>
+        <p class="variant">32 Go, USB-C</p>
+        <div class="price-row"><strong>CHF 17,90</strong><span class="reference">CHF 37,90</span></div>
+        <p class="insight">Au niveau du minimum déjà observé</p>
+        <dl>
+          <div><dt>Historique</dt><dd>depuis le 20 mars 2025</dd></div>
+          <div><dt>Prix actuel depuis</dt><dd>le 5 août 2026</dd></div>
+        </dl>
+        <div class="meta"><span aria-label="Note 5.0 sur 5">★ 5.0</span><span>1 avis</span><span>Clé USB</span></div>
+      </div>
+      <a class="product-link" href="https://www.galaxus.ch/fr/s1/product/lexon-c-pen-dugopis-z-pendrivem-usb-c-32gb-tyyellow-ls101yf-32-go-usb-c-cle-usb-47440817" target="_blank" rel="noopener noreferrer">Voir sur Galaxus <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="product-card">
+      <div class="card-topline"><span class="rank">#8</span><span class="low-badge badge-tied">Plus bas égalé</span></div>
+      <div class="product-image"><img src="https://www.galaxus.ch/productimages/8/9/7/5/5/9/1/9/9/1/6/4/9/5/4/8/9/5/019ffc11-df20-7707-b65f-5a3983c50806" alt="Alu Line" loading="lazy"></div>
+      <div class="product-copy">
+        <span class="brand">Intenso</span>
+        <h3>Alu Line</h3>
+        <p class="variant">4 Go, USB-A</p>
+        <div class="price-row"><strong>CHF 3,70</strong></div>
+        <p class="insight">Au niveau du minimum déjà observé</p>
+        <dl>
+          <div><dt>Historique</dt><dd>depuis le 5 janvier 2021</dd></div>
+          <div><dt>Prix actuel depuis</dt><dd>le 27 juin 2026</dd></div>
+        </dl>
+        <div class="meta"><span aria-label="Note 4.2 sur 5">★ 4.2</span><span>170 avis</span><span>Clé USB</span></div>
+      </div>
+      <a class="product-link" href="https://www.galaxus.ch/fr/s1/product/intenso-alu-line-4-go-usb-a-cle-usb-399204" target="_blank" rel="noopener noreferrer">Voir sur Galaxus <span aria-hidden="true">↗</span></a>
+    </article></div>
+    </section></main>
+  <footer><div class="shell footer-row"><p>Les résultats comparent le prix Galaxus actuel aux points disponibles dans son graphique d’historique. Il s’agit d’un échantillon, pas d’une garantie d’exhaustivité ni d’un conseil d’achat. Prix et disponibilité peuvent changer après la mise à jour.</p><a href="latest.json">Données JSON ↗</a></div></footer>
+  <script>
+    const tabs = [...document.querySelectorAll('.profile-tab')];
+    const panels = [...document.querySelectorAll('.profile-panel')];
+    function activate(slug) {
+      tabs.forEach(tab => { const active = tab.dataset.profile === slug; tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active)); });
+      panels.forEach(panel => panel.hidden = panel.dataset.panel !== slug);
+      history.replaceState(null, '', '#' + slug);
+    }
+    tabs.forEach(tab => tab.addEventListener('click', () => activate(tab.dataset.profile)));
+    document.querySelectorAll('.controls button').forEach(button => button.addEventListener('click', () => {
+      const carousel = button.closest('.profile-panel').querySelector('.carousel');
+      carousel.scrollBy({left: Number(button.dataset.direction) * Math.min(carousel.clientWidth * .88, 950), behavior:'smooth'});
+    }));
+    const initial = location.hash.slice(1);
+    if (initial && panels.some(panel => panel.dataset.panel === initial)) activate(initial);
+  </script>
+</body>
+</html>
