@@ -1,10 +1,10 @@
 # Galaxus Price Watch
 
-Mise à jour : 17 août 2026 à 23:10 UTC
+Mise à jour : 18 août 2026 à 05:20 UTC
 
 ## Promotions Galaxus
 
-25 produits distincts au minimum parmi 143 prix vérifiés.
+25 produits distincts au minimum parmi 144 prix vérifiés.
 
 1. [Shimano ET7 47](https://www.galaxus.ch/fr/s3/product/shimano-et7-47-chaussures-de-cyclisme-34776638) — CHF 52,65 — nouveau plus bas
 2. [soundcore Space 2 ANC, 70 h, Filaire, Sans fil](https://www.galaxus.ch/fr/s1/product/soundcore-space-2-anc-70-h-filaire-sans-fil-ecouteurs-68291170) — CHF 93 — nouveau plus bas
@@ -29,32 +29,32 @@ Mise à jour : 17 août 2026 à 23:10 UTC
 
 ## Déstockage Galaxus
 
-140 produits distincts au minimum parmi 240 prix vérifiés.
+139 produits distincts au minimum parmi 240 prix vérifiés.
 
 1. [Steinel Fil de soudure](https://www.galaxus.ch/fr/s4/product/steinel-fil-de-soudure-poste-a-souder-accessoires-8401881) — CHF 2 — nouveau plus bas
 2. [Malfini Energy MLI-91200 6 l](https://www.galaxus.ch/fr/s8/product/malfini-energy-mli-91200-6-l-sac-a-dos-49663943) — CHF 3 — nouveau plus bas
 3. [Disney Interactive Studios Minnie Teller](https://www.galaxus.ch/fr/s10/product/disney-interactive-studios-minnie-teller-vaisselle-couverts-pour-enfants-52773322) — CHF 2 — nouveau plus bas
-4. [Bauer Textiltasche 21 l](https://www.galaxus.ch/fr/s8/product/bauer-textiltasche-21-l-sac-53502995) — CHF 2 — nouveau plus bas
-5. [Canpol Animaux exotiques](https://www.galaxus.ch/fr/s10/product/canpol-animaux-exotiques-vaisselle-couverts-pour-enfants-25110361) — CHF 2 — nouveau plus bas
-6. [Radoxx Entretoise pour remorque AxXle](https://www.galaxus.ch/fr/s3/product/radoxx-entretoise-pour-remorque-axxle-remorque-pour-velo-accessoires-62150554) — CHF 2,30 — nouveau plus bas
-7. [Djeco Lettres d'animaux C](https://www.galaxus.ch/fr/s10/product/djeco-lettres-danimaux-c-lettre-en-bois-en-tissu-39624036) — CHF 1,50 — nouveau plus bas
-8. [Wiha Micro-embout 28 mm Fente forme 4 mm (40601) 1,2 Fente de vis](https://www.galaxus.ch/fr/s4/product/wiha-micro-embout-28-mm-fente-forme-4-mm-40601-12-fente-de-vis-embouts-22203051) — CHF 1,50 — nouveau plus bas
-9. [small foot Holzbuchstabe Kinderzimmer N](https://www.galaxus.ch/fr/s10/product/small-foot-holzbuchstabe-kinderzimmer-n-lettre-en-bois-en-tissu-42942302) — CHF 2 — nouveau plus bas
-10. [Eibenstock Elektrowerkzeuge GmbH Eibensto anneau en cuivre pour faciliter le dégagement du foret](https://www.galaxus.ch/fr/s4/product/eibenstock-elektrowerkzeuge-gmbh-eibensto-anneau-en-cuivre-pour-faciliter-le-degagement-du-foret-eta-33901270) — CHF 1,80 — nouveau plus bas
-11. [Vaillant Tube d'extension DN80 0,5m 303252 0.50 m](https://www.galaxus.ch/fr/s4/product/vaillant-tube-dextension-dn80-05m-303252-050-m-cable-electrique-35675415) — CHF 2,40 — nouveau plus bas
-12. [Amewi Tête de rotor en aluminium MD500E](https://www.galaxus.ch/fr/s5/product/amewi-tete-de-rotor-en-aluminium-md500e-helicoptere-rc-accessoires-51912186) — CHF 2,40 — nouveau plus bas
-13. [3MK Matte foil Silky Matt Pro for Honor X8c Honor X8c](https://www.galaxus.ch/fr/s1/product/3mk-matte-foil-silky-matt-pro-for-honor-x8c-honor-x8c-telephone-portable-film-de-protection-54060144) — CHF 1,30 — nouveau plus bas
-14. [Franken Carte T](https://www.galaxus.ch/fr/s12/product/franken-carte-t-presentation-accessoires-21268859) — CHF 1,10 — nouveau plus bas
-15. [Glorex Autocollants marins 6 Autocollants](https://www.galaxus.ch/fr/s12/product/glorex-autocollants-marins-6-autocollants-autocollants-21966292) — CHF 0,60 — nouveau plus bas
-16. [Brotect Protection Clair Samsung Galaxy S20 5G](https://www.galaxus.ch/fr/s1/product/brotect-protection-clair-samsung-galaxy-s20-5g-telephone-portable-film-de-protection-43939884) — CHF 0,60 — nouveau plus bas
-17. [Humbrol No 5 Dark Ad Grey Gloss](https://www.galaxus.ch/fr/s5/product/humbrol-no-5-dark-ad-grey-gloss-peinture-pour-modelisme-15277220) — CHF 0,70 — nouveau plus bas
-18. [Planet-Hobby crochet de démarrage haut 48/10/23](https://www.galaxus.ch/fr/s5/product/planet-hobby-crochet-de-demarrage-haut-481023-avion-rc-accessoires-23332755) — CHF 0,95 — nouveau plus bas
-19. [Humbrol No 186 Brun mat](https://www.galaxus.ch/fr/s5/product/humbrol-no-186-brun-mat-peinture-pour-modelisme-15277312) — CHF 0,70 — nouveau plus bas
-20. [Simonswerk Partie du cadre VARIANT V 8100 WF U](https://www.galaxus.ch/fr/s4/product/simonswerk-partie-du-cadre-variant-v-8100-wf-u-paumelle-de-porte-10880546) — CHF 0,90 — nouveau plus bas
+4. [Canpol Animaux exotiques](https://www.galaxus.ch/fr/s10/product/canpol-animaux-exotiques-vaisselle-couverts-pour-enfants-25110361) — CHF 2 — nouveau plus bas
+5. [Radoxx Entretoise pour remorque AxXle](https://www.galaxus.ch/fr/s3/product/radoxx-entretoise-pour-remorque-axxle-remorque-pour-velo-accessoires-62150554) — CHF 2,30 — nouveau plus bas
+6. [Djeco Lettres d'animaux C](https://www.galaxus.ch/fr/s10/product/djeco-lettres-danimaux-c-lettre-en-bois-en-tissu-39624036) — CHF 1,50 — nouveau plus bas
+7. [Wiha Micro-embout 28 mm Fente forme 4 mm (40601) 1,2 Fente de vis](https://www.galaxus.ch/fr/s4/product/wiha-micro-embout-28-mm-fente-forme-4-mm-40601-12-fente-de-vis-embouts-22203051) — CHF 1,50 — nouveau plus bas
+8. [Eibenstock Elektrowerkzeuge GmbH Eibensto anneau en cuivre pour faciliter le dégagement du foret](https://www.galaxus.ch/fr/s4/product/eibenstock-elektrowerkzeuge-gmbh-eibensto-anneau-en-cuivre-pour-faciliter-le-degagement-du-foret-eta-33901270) — CHF 1,80 — nouveau plus bas
+9. [Vaillant Tube d'extension DN80 0,5m 303252 0.50 m](https://www.galaxus.ch/fr/s4/product/vaillant-tube-dextension-dn80-05m-303252-050-m-cable-electrique-35675415) — CHF 2,40 — nouveau plus bas
+10. [Amewi Tête de rotor en aluminium MD500E](https://www.galaxus.ch/fr/s5/product/amewi-tete-de-rotor-en-aluminium-md500e-helicoptere-rc-accessoires-51912186) — CHF 2,40 — nouveau plus bas
+11. [3MK Matte foil Silky Matt Pro for Honor X8c Honor X8c](https://www.galaxus.ch/fr/s1/product/3mk-matte-foil-silky-matt-pro-for-honor-x8c-honor-x8c-telephone-portable-film-de-protection-54060144) — CHF 1,30 — nouveau plus bas
+12. [Franken Carte T](https://www.galaxus.ch/fr/s12/product/franken-carte-t-presentation-accessoires-21268859) — CHF 1,10 — nouveau plus bas
+13. [Glorex Autocollants marins 6 Autocollants](https://www.galaxus.ch/fr/s12/product/glorex-autocollants-marins-6-autocollants-autocollants-21966292) — CHF 0,60 — nouveau plus bas
+14. [Brotect Protection Clair Samsung Galaxy S20 5G](https://www.galaxus.ch/fr/s1/product/brotect-protection-clair-samsung-galaxy-s20-5g-telephone-portable-film-de-protection-43939884) — CHF 0,60 — nouveau plus bas
+15. [Humbrol No 5 Dark Ad Grey Gloss](https://www.galaxus.ch/fr/s5/product/humbrol-no-5-dark-ad-grey-gloss-peinture-pour-modelisme-15277220) — CHF 0,70 — nouveau plus bas
+16. [Planet-Hobby crochet de démarrage haut 48/10/23](https://www.galaxus.ch/fr/s5/product/planet-hobby-crochet-de-demarrage-haut-481023-avion-rc-accessoires-23332755) — CHF 0,95 — nouveau plus bas
+17. [Humbrol No 186 Brun mat](https://www.galaxus.ch/fr/s5/product/humbrol-no-186-brun-mat-peinture-pour-modelisme-15277312) — CHF 0,70 — nouveau plus bas
+18. [Simonswerk Partie du cadre VARIANT V 8100 WF U](https://www.galaxus.ch/fr/s4/product/simonswerk-partie-du-cadre-variant-v-8100-wf-u-paumelle-de-porte-10880546) — CHF 0,90 — nouveau plus bas
+19. [Vesrah CC Revêtement 004](https://www.galaxus.ch/fr/s3/product/vesrah-cc-revetement-004-outils-pour-velo-8216148) — CHF 1 — nouveau plus bas
+20. [GreenCell Batterie d'ordinateur portable pour Lenovo ThinkPad E480 E485 E490 - 4100 mAh 3 cabines, 4100 mAh](https://www.galaxus.ch/fr/s1/product/greencell-batterie-dordinateur-portable-pour-lenovo-thinkpad-e480-e485-e490-4100-mah-3-cabines-4100--40246910) — CHF 14,70 — nouveau plus bas
 
 ## Clés USB
 
-9 produits distincts au minimum parmi 120 prix vérifiés.
+8 produits distincts au minimum parmi 120 prix vérifiés.
 
 1. [MediaRange MEMORY DRIVE FLASH USB2 8GB/MR920 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb2-8gbmr920-8-go-usb-a-cle-usb-68627460) — CHF 9,25 — nouveau plus bas
 2. [MediaRange MEMORY DRIVE FLASH USB-C 32GB/MR1952 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb-c-32gbmr1952-32-go-usb-c-cle-usb-54671597) — CHF 9,60 — nouveau plus bas
@@ -63,7 +63,6 @@ Mise à jour : 17 août 2026 à 23:10 UTC
 5. [MediaRange MEMORY DRIVE FLASH USB3.2/128GB MR1902 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb32128gb-mr1902-128-go-usb-a-cle-usb-68627458) — CHF 32,90 — nouveau plus bas
 6. [MediaRange Clé USB MR935, USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1), argentée 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/mediarange-cle-usb-mr935-usb-type-a-usb-type-c-32-gen-1-31-gen-1-argentee-16-go-usb-a-usb-c-cle-usb-40181270) — CHF 10,20 — nouveau plus bas
 7. [Hama Rotate USB 3.0 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hama-rotate-usb-30-128-go-usb-a-cle-usb-15800665) — CHF 7,90 — nouveau plus bas
-8. [Lexon C-Pen Długopis z pendrivem USB-C 32GB żółty/yellow LS101YF 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-dugopis-z-pendrivem-usb-c-32gb-tyyellow-ls101yf-32-go-usb-c-cle-usb-47440817) — CHF 17,90 — plus bas égalé
-9. [Intenso Alu Line 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/intenso-alu-line-4-go-usb-a-cle-usb-399204) — CHF 3,70 — plus bas égalé
+8. [Intenso Alu Line 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/intenso-alu-line-4-go-usb-a-cle-usb-399204) — CHF 3,70 — plus bas égalé
 
 _Échantillon automatisé fondé sur l’historique de prix disponible chez Galaxus. Les prix peuvent changer._
