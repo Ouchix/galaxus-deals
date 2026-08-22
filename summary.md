@@ -1,10 +1,10 @@
 # Galaxus Price Watch
 
-Mise à jour : 22 août 2026 à 08:43 UTC
+Mise à jour : 22 août 2026 à 12:02 UTC
 
 ## Promotions Galaxus
 
-320 produits distincts au minimum parmi 688 prix vérifiés.
+319 produits distincts au minimum parmi 687 prix vérifiés.
 Pagination complète de la source confirmée.
 
 1. [Shimano ET7 48](https://www.galaxus.ch/fr/s3/product/shimano-et7-48-chaussures-de-cyclisme-34776639) — CHF 42,70 — nouveau plus bas
@@ -110,7 +110,7 @@ Pagination complète de la source confirmée.
 
 ## Déstockage Galaxus
 
-1365 produits distincts au minimum parmi 2161 prix vérifiés.
+1357 produits distincts au minimum parmi 2152 prix vérifiés.
 Pagination complète de la source confirmée.
 
 1. [Steinel Fil de soudure](https://www.galaxus.ch/fr/s4/product/steinel-fil-de-soudure-poste-a-souder-accessoires-8401881) — CHF 2 — nouveau plus bas
@@ -216,7 +216,7 @@ Pagination complète de la source confirmée.
 
 ## Clés USB
 
-69 produits distincts au minimum parmi 1780 prix vérifiés.
+71 produits distincts au minimum parmi 1827 prix vérifiés.
 Pagination complète de la source confirmée.
 
 1. [MediaRange MEMORY DRIVE FLASH USB2 8GB/MR920 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb2-8gbmr920-8-go-usb-a-cle-usb-68627460) — CHF 9,25 — nouveau plus bas
@@ -235,58 +235,60 @@ Pagination complète de la source confirmée.
 14. [Montiss Pamięć USB 3.2 128GB UME3 MT184-128 MONTIS by Goodram 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/montiss-pami-usb-32-128gb-ume3-mt184-128-montis-by-goodram-128-go-usb-a-cle-usb-61797163) — CHF 17,90 — nouveau plus bas
 15. [Hiksemi CLE USB 64 Go Série E327C U3 Dual USB 3.2 et USB Type C Coloris Silver 64 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-64-go-serie-e327c-u3-dual-usb-32-et-usb-type-c-coloris-silver-64-go-usb-a-usb-c-cle--44432230) — CHF 18,90 — nouveau plus bas
 16. [Integral Flash drive SLIDE INFD32GBSLDBL Blue 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/flash-drive-slide-infd32gbsldbl-blue-32-go-usb-a-cle-usb-54239765) — CHF 10,50 — nouveau plus bas
-17. [Integral INFD128GB360CSEC3.2 128 Go, USB-C](https://www.galaxus.ch/fr/s1/product/infd128gb360csec32-128-go-usb-c-cle-usb-62474855) — CHF 50,90 — nouveau plus bas
-18. [PowerGuard 2-Pack USB LED Stick USB-A](https://www.galaxus.ch/fr/s1/product/powerguard-2-pack-usb-led-stick-usb-a-cle-usb-24961847) — CHF 6,25 — nouveau plus bas
-19. [Transcend JetFlash 380G 32GB Dual USB 2.0 Flash Drive + micro-USB Gold 32 Go, Micro USB-B, USB-A](https://www.galaxus.ch/fr/s1/product/transcend-jetflash-380g-32gb-dual-usb-20-flash-drive-micro-usb-gold-32-go-micro-usb-b-usb-a-cle-usb-10342270) — CHF 18,90 — nouveau plus bas
-20. [Tribe USB stick 8 GB Superman - Original DC Comics 2.0 Flash Drive, FD031401 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-usb-stick-8-gb-superman-original-dc-comics-20-flash-drive-fd031401-8-go-usb-a-cle-usb-59440630) — CHF 18,90 — nouveau plus bas
-21. [MediaRange MEMORY DRIVE FLASH USB3.2/128GB MR1902 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb32128gb-mr1902-128-go-usb-a-cle-usb-68627458) — CHF 32,90 — nouveau plus bas
-22. [Forcell Memory cards F-DATA pendrive Metal 32GB USB3.2 Gen 1 (USB A) silver 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/forcell-memory-cards-f-data-pendrive-metal-32gb-usb32-gen-1-usb-a-silver-32-go-usb-a-cle-usb-59944293) — CHF 12,60 — nouveau plus bas
-23. [Hiksemi Flash Disk 4GB Classic, USB 2.0 (R:10-20 MB/s, W:3-10 MB/s) 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-flash-disk-4gb-classic-usb-20-r10-20-mbs-w3-10-mbs-4-go-usb-a-cle-usb-46367210) — CHF 9,05 — nouveau plus bas
-24. [MediaRange Clé USB MR935, USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1), argentée 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/mediarange-cle-usb-mr935-usb-type-a-usb-type-c-32-gen-1-31-gen-1-argentee-16-go-usb-a-usb-c-cle-usb-40181270) — CHF 10,20 — nouveau plus bas
-25. [Tribe Bâton de balai Harry Potter Hermione 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-baton-de-balai-harry-potter-hermione-16-go-usb-a-cle-usb-39930937) — CHF 21,90 — nouveau plus bas
-26. [Tribe Clé USB 8 Go Flash - Original DC Comics 2.0 Flash Drive, FD031406 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-cle-usb-8-go-flash-original-dc-comics-20-flash-drive-fd031406-8-go-usb-a-cle-usb-53552087) — CHF 19,70 — nouveau plus bas
-27. [Ridata HJ3 Ezdrive 16GB Silver USB3.0 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/ridata-hj3-ezdrive-16gb-silver-usb30-16-go-usb-a-cle-usb-60425532) — CHF 17,90 — nouveau plus bas
-28. [Tribe Marvel Hulk 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-marvel-hulk-16-go-usb-a-cle-usb-6386680) — CHF 19,90 — nouveau plus bas
-29. [Tribe Clé USB Looney Tunes 16 Go Daffy 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-cle-usb-looney-tunes-16-go-daffy-16-go-usb-a-cle-usb-39931866) — CHF 21,90 — nouveau plus bas
-30. [Hikvision Hiksemi, clé USB, 8Go, 2.0, ultra-mince, Aus 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hikvision-hiksemi-cle-usb-8go-20-ultra-mince-aus-8-go-usb-a-cle-usb-49452572) — CHF 8,30 — nouveau plus bas
-31. [Bodino Carte couleur avec clé USB 8 Go, Electronic Spaghetti 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-electronic-spaghetti-8-go-cle-usb-358173) — CHF 26,90 — nouveau plus bas
-32. [Bodino Carte couleur avec clé USB 8 Go, Le Cirque 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-le-cirque-8-go-cle-usb-358177) — CHF 26,90 — nouveau plus bas
-33. [Bodino Carte couleur avec clé USB 8 Go, Circl Ogical Breakdown 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-circl-ogical-breakdown-8-go-cle-usb-358176) — CHF 26,90 — nouveau plus bas
-34. [Bodino Carte couleur avec clé USB 8 Go, Scotch on the rocks 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-scotch-on-the-rocks-8-go-cle-usb-358174) — CHF 26,90 — nouveau plus bas
-35. [Hoco U1 64GB Noir 64 Go](https://www.galaxus.ch/fr/s1/product/hoco-u1-64gb-noir-64-go-cle-usb-33345381) — CHF 30,90 — nouveau plus bas
-36. [Mozo Organisateur en cuir Pour poignées de télécommande Stand Premium](https://www.galaxus.ch/fr/s1/product/mozo-organisateur-en-cuir-pour-poignees-de-telecommande-stand-premium-cle-usb-36909846) — CHF 15,90 — nouveau plus bas
-37. [Hiksemi Flash Disk 128GB Cap, USB 3.2 (R:30-120 MB/s, W:15-45 MB/s) 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-flash-disk-128gb-cap-usb-32-r30-120-mbs-w15-45-mbs-128-go-usb-a-cle-usb-41223904) — CHF 15,90 — nouveau plus bas
-38. [Adata USB-A 2.0 FlashDrive C008, 64Gb 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/adata-usb-a-20-flashdrive-c008-64gb-64-go-usb-a-cle-usb-70241127) — CHF 11,20 — nouveau plus bas
-39. [Integral CLE USB 32GB USB-C 3.2 GEN1 DRIVE ROSE 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-32gb-usb-c-32-gen1-drive-rose-32-go-usb-c-cle-usb-66254224) — CHF 16,90 — nouveau plus bas
-40. [Disk2go Clé USB prime 64 Go 30006707 USB 3.0 double pack 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/disk2go-cle-usb-prime-64-go-30006707-usb-30-double-pack-64-go-usb-a-cle-usb-12924833) — CHF 13,90 — nouveau plus bas
-41. [Dahua Pendrive - 32GB USB2.0 (U116 R25-W10 MB/s FAT32) 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-32gb-usb20-u116-r25-w10-mbs-fat32-32-go-usb-a-cle-usb-36739152) — CHF 11,40 — nouveau plus bas
-42. [Tribe Game of Thrones USB 16GB Arya 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-game-of-thrones-usb-16gb-arya-16-go-usb-a-cle-usb-10409421) — CHF 8,75 — nouveau plus bas
-43. [Dahua Pendrive - 32GB USB2.0 (U176 R25-W10 MB/s FAT32) 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-32gb-usb20-u176-r25-w10-mbs-fat32-32-go-usb-a-cle-usb-37800494) — CHF 10,50 — nouveau plus bas
-44. [Netac Lecteur flash U505 USB3.0 32 Go, boîtier ABS+métal 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/netac-lecteur-flash-u505-usb30-32-go-boitier-absmetal-32-go-usb-a-cle-usb-20541927) — CHF 9,55 — nouveau plus bas
-45. [DJTechTools Chroma Drive USB - 256GB - Chrome 256 Go, USB-A](https://www.galaxus.ch/fr/s1/product/djtechtools-chroma-drive-usb-256gb-chrome-256-go-usb-a-cle-usb-62428231) — CHF 72,60 — nouveau plus bas
-46. [Hama Rotate USB 3.0 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hama-rotate-usb-30-128-go-usb-a-cle-usb-15800665) — CHF 7,90 — nouveau plus bas
-47. [Ludattica Puzzle Atelier Picasso 8+](https://www.galaxus.ch/fr/s1/product/ludattica-puzzle-atelier-picasso-8-cle-usb-39925906) — CHF 22,70 — nouveau plus bas
-48. [Intenso Micro Line 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/intenso-micro-line-64-go-usb-a-cle-usb-66953749) — CHF 45,90 — nouveau plus bas
-49. [Hiksemi Hikvision Pendrive - 4GB USB2.0, ROTARY, M200S, Ezüst-Fekete 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-4gb-usb20-rotary-m200s-ezuest-fekete-4-go-usb-a-cle-usb-63914077) — CHF 10,20 — nouveau plus bas
-50. [Forcell Memory cards F-DATA pendrive Metal Duo 16GB USB3.2 Gen 1 (USB A / Type C) silver 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/forcell-memory-cards-f-data-pendrive-metal-duo-16gb-usb32-gen-1-usb-a-type-c-silver-16-go-usb-a-usb--59944284) — CHF 10,60 — nouveau plus bas
-51. [MyMedia Clé USB 2.0 16 Go MyUSB Drive 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mymedia-cle-usb-20-16-go-myusb-drive-16-go-usb-a-cle-usb-25210651) — CHF 5,30 — nouveau plus bas
-52. [Lexon C-Pen 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-32-go-usb-c-cle-usb-16668523) — CHF 26,70 — nouveau plus bas
-53. [Orbitkey USB-C keyring flash drive, 64GB 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/orbitkey-usb-c-keyring-flash-drive-64gb-64-go-usb-c-cle-usb-54012722) — CHF 32,90 — nouveau plus bas
-54. [Orbitkey USB-Stick 3.0 32GB gris 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/orbitkey-usb-stick-30-32gb-gris-32-go-usb-a-cle-usb-25217574) — CHF 33,90 — nouveau plus bas
-55. [IMRO Clé USB 3.0 CHEETAH/32GB Chrome Argent 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/imro-cle-usb-30-cheetah32gb-chrome-argent-32-go-usb-a-cle-usb-32028524) — CHF 8,95 — nouveau plus bas
-56. [Dahua Pendrive Technology U126-30, 64 Go (USB-U126-30-64GB) 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-technology-u126-30-64-go-usb-u126-30-64gb-64-go-usb-a-cle-usb-49028381) — CHF 12,80 — nouveau plus bas
-57. [Patriot USB 512GB iLuxe Stick USB-C + Lightning 3.2 PAT 512 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/patriot-usb-512gb-iluxe-stick-usb-c-lightning-32-pat-512-go-usb-a-usb-c-cle-usb-54726668) — CHF 80,90 — nouveau plus bas
-58. [Adata USB 64GB UC300 bkgn 3.2 Interface USB Type C USB 3.2 Gen 1 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/adata-usb-64gb-uc300-bkgn-32-interface-usb-type-c-usb-32-gen-1-64-go-usb-c-cle-usb-22925487) — CHF 7,30 — nouveau plus bas
-59. [Integral 64GB USB3.0 DRIVE NEON PINK UP TO R-100 W-30 MBS 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/64gb-usb30-drive-neon-pink-up-to-r-100-w-30-mbs-64-go-usb-a-cle-usb-33517965) — CHF 14,70 — plus bas égalé
-60. [Lexon C-Pen Długopis z pendrivem USB-C 32GB żółty/yellow LS101YF 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-dugopis-z-pendrivem-usb-c-32gb-tyyellow-ls101yf-32-go-usb-c-cle-usb-47440817) — CHF 17,90 — plus bas égalé
-61. [Platinet Pendrive K-DEPO, 128 Go (PMFMK128) 128 Go](https://www.galaxus.ch/fr/s1/product/platinet-pendrive-k-depo-128-go-pmfmk128-128-go-cle-usb-21106452) — CHF 15,90 — plus bas égalé
-62. [Delkin PocketFlash USB 3.0 64GB R:120MB/s W:15MB/s 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/delkin-pocketflash-usb-30-64gb-r120mbs-w15mbs-64-go-usb-a-cle-usb-22877634) — CHF 19,70 — plus bas égalé
-63. [Delkin PocketFlash USB 3.0 128GB R:120MB/s W:25MB/s 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/delkin-pocketflash-usb-30-128gb-r120mbs-w25mbs-128-go-usb-a-cle-usb-22877635) — CHF 33,70 — plus bas égalé
-64. [Apacer AH155, 128 Go Pendrive (AP128GAH155U-1) 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/apacer-ah155-128-go-pendrive-ap128gah155u-1-128-go-usb-a-cle-usb-35533322) — CHF 25,90 — plus bas égalé
-65. [Hiksemi CLE USB 16 Go Série E307C U3 Dual USB 3.2 et USB Type C Coloris Grey 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-16-go-serie-e307c-u3-dual-usb-32-et-usb-type-c-coloris-grey-16-go-usb-a-usb-c-cle-us-44737000) — CHF 11,90 — plus bas égalé
-66. [Integral USB-STICK SZ INFD32GB360CSEC3.2 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/usb-stick-sz-infd32gb360csec32-32-go-usb-a-cle-usb-65858386) — CHF 31,70 — plus bas égalé
-67. [Integral CLE USB 64GB USB-C 3.2 GEN1 DRIVE BLEUE 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-64gb-usb-c-32-gen1-drive-bleue-64-go-usb-c-cle-usb-66254228) — CHF 24,90 — plus bas égalé
-68. [Integral CLE USB 64GB USB-C 3.2 GEN1 DRIVE ROSE 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-64gb-usb-c-32-gen1-drive-rose-64-go-usb-c-cle-usb-66254215) — CHF 25,90 — plus bas égalé
-69. [Integral CLE USB 32GB USB-C 3.2 GEN1 DRIVE BLEUE 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-32gb-usb-c-32-gen1-drive-bleue-32-go-usb-c-cle-usb-66254216) — CHF 19,90 — plus bas égalé
+17. [Integral INFD64GB360CSEC3.2 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/infd64gb360csec32-64-go-usb-a-cle-usb-64919716) — CHF 36,90 — nouveau plus bas
+18. [Integral INFD128GB360CSEC3.2 128 Go, USB-C](https://www.galaxus.ch/fr/s1/product/infd128gb360csec32-128-go-usb-c-cle-usb-62474855) — CHF 50,90 — nouveau plus bas
+19. [PowerGuard 2-Pack USB LED Stick USB-A](https://www.galaxus.ch/fr/s1/product/powerguard-2-pack-usb-led-stick-usb-a-cle-usb-24961847) — CHF 6,25 — nouveau plus bas
+20. [Transcend JetFlash 380G 32GB Dual USB 2.0 Flash Drive + micro-USB Gold 32 Go, Micro USB-B, USB-A](https://www.galaxus.ch/fr/s1/product/transcend-jetflash-380g-32gb-dual-usb-20-flash-drive-micro-usb-gold-32-go-micro-usb-b-usb-a-cle-usb-10342270) — CHF 18,90 — nouveau plus bas
+21. [Tribe USB stick 8 GB Superman - Original DC Comics 2.0 Flash Drive, FD031401 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-usb-stick-8-gb-superman-original-dc-comics-20-flash-drive-fd031401-8-go-usb-a-cle-usb-59440630) — CHF 18,90 — nouveau plus bas
+22. [MediaRange MEMORY DRIVE FLASH USB3.2/128GB MR1902 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb32128gb-mr1902-128-go-usb-a-cle-usb-68627458) — CHF 32,90 — nouveau plus bas
+23. [Forcell Memory cards F-DATA pendrive Metal 32GB USB3.2 Gen 1 (USB A) silver 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/forcell-memory-cards-f-data-pendrive-metal-32gb-usb32-gen-1-usb-a-silver-32-go-usb-a-cle-usb-59944293) — CHF 12,60 — nouveau plus bas
+24. [Hiksemi Flash Disk 4GB Classic, USB 2.0 (R:10-20 MB/s, W:3-10 MB/s) 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-flash-disk-4gb-classic-usb-20-r10-20-mbs-w3-10-mbs-4-go-usb-a-cle-usb-46367210) — CHF 9,05 — nouveau plus bas
+25. [MediaRange Clé USB MR935, USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1), argentée 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/mediarange-cle-usb-mr935-usb-type-a-usb-type-c-32-gen-1-31-gen-1-argentee-16-go-usb-a-usb-c-cle-usb-40181270) — CHF 10,20 — nouveau plus bas
+26. [Tribe Bâton de balai Harry Potter Hermione 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-baton-de-balai-harry-potter-hermione-16-go-usb-a-cle-usb-39930937) — CHF 21,90 — nouveau plus bas
+27. [Tribe Clé USB 8 Go Flash - Original DC Comics 2.0 Flash Drive, FD031406 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-cle-usb-8-go-flash-original-dc-comics-20-flash-drive-fd031406-8-go-usb-a-cle-usb-53552087) — CHF 19,70 — nouveau plus bas
+28. [Ridata HJ3 Ezdrive 16GB Silver USB3.0 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/ridata-hj3-ezdrive-16gb-silver-usb30-16-go-usb-a-cle-usb-60425532) — CHF 17,90 — nouveau plus bas
+29. [Tribe Marvel Hulk 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-marvel-hulk-16-go-usb-a-cle-usb-6386680) — CHF 19,90 — nouveau plus bas
+30. [Tribe Clé USB Looney Tunes 16 Go Daffy 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-cle-usb-looney-tunes-16-go-daffy-16-go-usb-a-cle-usb-39931866) — CHF 21,90 — nouveau plus bas
+31. [Hikvision Hiksemi, clé USB, 8Go, 2.0, ultra-mince, Aus 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hikvision-hiksemi-cle-usb-8go-20-ultra-mince-aus-8-go-usb-a-cle-usb-49452572) — CHF 8,30 — nouveau plus bas
+32. [Bodino Carte couleur avec clé USB 8 Go, Electronic Spaghetti 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-electronic-spaghetti-8-go-cle-usb-358173) — CHF 26,90 — nouveau plus bas
+33. [Bodino Carte couleur avec clé USB 8 Go, Le Cirque 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-le-cirque-8-go-cle-usb-358177) — CHF 26,90 — nouveau plus bas
+34. [Bodino Carte couleur avec clé USB 8 Go, Circl Ogical Breakdown 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-circl-ogical-breakdown-8-go-cle-usb-358176) — CHF 26,90 — nouveau plus bas
+35. [Bodino Carte couleur avec clé USB 8 Go, Scotch on the rocks 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-scotch-on-the-rocks-8-go-cle-usb-358174) — CHF 26,90 — nouveau plus bas
+36. [Integral INFD512GB360SEC3.0 512 Go, USB-A](https://www.galaxus.ch/fr/s1/product/infd512gb360sec30-512-go-usb-a-cle-usb-58250998) — CHF 139 — nouveau plus bas
+37. [Hoco U1 64GB Noir 64 Go](https://www.galaxus.ch/fr/s1/product/hoco-u1-64gb-noir-64-go-cle-usb-33345381) — CHF 30,90 — nouveau plus bas
+38. [Mozo Organisateur en cuir Pour poignées de télécommande Stand Premium](https://www.galaxus.ch/fr/s1/product/mozo-organisateur-en-cuir-pour-poignees-de-telecommande-stand-premium-cle-usb-36909846) — CHF 15,90 — nouveau plus bas
+39. [Hiksemi Flash Disk 128GB Cap, USB 3.2 (R:30-120 MB/s, W:15-45 MB/s) 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-flash-disk-128gb-cap-usb-32-r30-120-mbs-w15-45-mbs-128-go-usb-a-cle-usb-41223904) — CHF 15,90 — nouveau plus bas
+40. [Adata USB-A 2.0 FlashDrive C008, 64Gb 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/adata-usb-a-20-flashdrive-c008-64gb-64-go-usb-a-cle-usb-70241127) — CHF 11,20 — nouveau plus bas
+41. [Integral CLE USB 32GB USB-C 3.2 GEN1 DRIVE ROSE 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-32gb-usb-c-32-gen1-drive-rose-32-go-usb-c-cle-usb-66254224) — CHF 16,90 — nouveau plus bas
+42. [Disk2go Clé USB prime 64 Go 30006707 USB 3.0 double pack 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/disk2go-cle-usb-prime-64-go-30006707-usb-30-double-pack-64-go-usb-a-cle-usb-12924833) — CHF 13,90 — nouveau plus bas
+43. [Dahua Pendrive - 32GB USB2.0 (U116 R25-W10 MB/s FAT32) 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-32gb-usb20-u116-r25-w10-mbs-fat32-32-go-usb-a-cle-usb-36739152) — CHF 11,40 — nouveau plus bas
+44. [Tribe Game of Thrones USB 16GB Arya 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-game-of-thrones-usb-16gb-arya-16-go-usb-a-cle-usb-10409421) — CHF 8,75 — nouveau plus bas
+45. [Dahua Pendrive - 32GB USB2.0 (U176 R25-W10 MB/s FAT32) 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-32gb-usb20-u176-r25-w10-mbs-fat32-32-go-usb-a-cle-usb-37800494) — CHF 10,50 — nouveau plus bas
+46. [Netac Lecteur flash U505 USB3.0 32 Go, boîtier ABS+métal 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/netac-lecteur-flash-u505-usb30-32-go-boitier-absmetal-32-go-usb-a-cle-usb-20541927) — CHF 9,55 — nouveau plus bas
+47. [DJTechTools Chroma Drive USB - 256GB - Chrome 256 Go, USB-A](https://www.galaxus.ch/fr/s1/product/djtechtools-chroma-drive-usb-256gb-chrome-256-go-usb-a-cle-usb-62428231) — CHF 72,60 — nouveau plus bas
+48. [Hama Rotate USB 3.0 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hama-rotate-usb-30-128-go-usb-a-cle-usb-15800665) — CHF 7,90 — nouveau plus bas
+49. [Ludattica Puzzle Atelier Picasso 8+](https://www.galaxus.ch/fr/s1/product/ludattica-puzzle-atelier-picasso-8-cle-usb-39925906) — CHF 22,70 — nouveau plus bas
+50. [Intenso Micro Line 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/intenso-micro-line-64-go-usb-a-cle-usb-66953749) — CHF 45,90 — nouveau plus bas
+51. [Hiksemi Hikvision Pendrive - 4GB USB2.0, ROTARY, M200S, Ezüst-Fekete 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-4gb-usb20-rotary-m200s-ezuest-fekete-4-go-usb-a-cle-usb-63914077) — CHF 10,20 — nouveau plus bas
+52. [Forcell Memory cards F-DATA pendrive Metal Duo 16GB USB3.2 Gen 1 (USB A / Type C) silver 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/forcell-memory-cards-f-data-pendrive-metal-duo-16gb-usb32-gen-1-usb-a-type-c-silver-16-go-usb-a-usb--59944284) — CHF 10,60 — nouveau plus bas
+53. [MyMedia Clé USB 2.0 16 Go MyUSB Drive 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mymedia-cle-usb-20-16-go-myusb-drive-16-go-usb-a-cle-usb-25210651) — CHF 5,30 — nouveau plus bas
+54. [Lexon C-Pen 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-32-go-usb-c-cle-usb-16668523) — CHF 26,70 — nouveau plus bas
+55. [Orbitkey USB-C keyring flash drive, 64GB 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/orbitkey-usb-c-keyring-flash-drive-64gb-64-go-usb-c-cle-usb-54012722) — CHF 32,90 — nouveau plus bas
+56. [Orbitkey USB-Stick 3.0 32GB gris 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/orbitkey-usb-stick-30-32gb-gris-32-go-usb-a-cle-usb-25217574) — CHF 33,90 — nouveau plus bas
+57. [IMRO Clé USB 3.0 CHEETAH/32GB Chrome Argent 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/imro-cle-usb-30-cheetah32gb-chrome-argent-32-go-usb-a-cle-usb-32028524) — CHF 8,95 — nouveau plus bas
+58. [Dahua Pendrive Technology U126-30, 64 Go (USB-U126-30-64GB) 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-technology-u126-30-64-go-usb-u126-30-64gb-64-go-usb-a-cle-usb-49028381) — CHF 12,80 — nouveau plus bas
+59. [Patriot USB 512GB iLuxe Stick USB-C + Lightning 3.2 PAT 512 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/patriot-usb-512gb-iluxe-stick-usb-c-lightning-32-pat-512-go-usb-a-usb-c-cle-usb-54726668) — CHF 80,90 — nouveau plus bas
+60. [Adata USB 64GB UC300 bkgn 3.2 Interface USB Type C USB 3.2 Gen 1 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/adata-usb-64gb-uc300-bkgn-32-interface-usb-type-c-usb-32-gen-1-64-go-usb-c-cle-usb-22925487) — CHF 7,30 — nouveau plus bas
+61. [Integral 64GB USB3.0 DRIVE NEON PINK UP TO R-100 W-30 MBS 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/64gb-usb30-drive-neon-pink-up-to-r-100-w-30-mbs-64-go-usb-a-cle-usb-33517965) — CHF 14,70 — plus bas égalé
+62. [Lexon C-Pen Długopis z pendrivem USB-C 32GB żółty/yellow LS101YF 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-dugopis-z-pendrivem-usb-c-32gb-tyyellow-ls101yf-32-go-usb-c-cle-usb-47440817) — CHF 17,90 — plus bas égalé
+63. [Platinet Pendrive K-DEPO, 128 Go (PMFMK128) 128 Go](https://www.galaxus.ch/fr/s1/product/platinet-pendrive-k-depo-128-go-pmfmk128-128-go-cle-usb-21106452) — CHF 15,90 — plus bas égalé
+64. [Delkin PocketFlash USB 3.0 64GB R:120MB/s W:15MB/s 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/delkin-pocketflash-usb-30-64gb-r120mbs-w15mbs-64-go-usb-a-cle-usb-22877634) — CHF 19,70 — plus bas égalé
+65. [Delkin PocketFlash USB 3.0 128GB R:120MB/s W:25MB/s 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/delkin-pocketflash-usb-30-128gb-r120mbs-w25mbs-128-go-usb-a-cle-usb-22877635) — CHF 33,70 — plus bas égalé
+66. [Apacer AH155, 128 Go Pendrive (AP128GAH155U-1) 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/apacer-ah155-128-go-pendrive-ap128gah155u-1-128-go-usb-a-cle-usb-35533322) — CHF 25,90 — plus bas égalé
+67. [Hiksemi CLE USB 16 Go Série E307C U3 Dual USB 3.2 et USB Type C Coloris Grey 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-16-go-serie-e307c-u3-dual-usb-32-et-usb-type-c-coloris-grey-16-go-usb-a-usb-c-cle-us-44737000) — CHF 11,90 — plus bas égalé
+68. [Integral USB-STICK SZ INFD32GB360CSEC3.2 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/usb-stick-sz-infd32gb360csec32-32-go-usb-a-cle-usb-65858386) — CHF 31,70 — plus bas égalé
+69. [Integral CLE USB 64GB USB-C 3.2 GEN1 DRIVE BLEUE 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-64gb-usb-c-32-gen1-drive-bleue-64-go-usb-c-cle-usb-66254228) — CHF 24,90 — plus bas égalé
+70. [Integral CLE USB 64GB USB-C 3.2 GEN1 DRIVE ROSE 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-64gb-usb-c-32-gen1-drive-rose-64-go-usb-c-cle-usb-66254215) — CHF 25,90 — plus bas égalé
+71. [Integral CLE USB 32GB USB-C 3.2 GEN1 DRIVE BLEUE 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-32gb-usb-c-32-gen1-drive-bleue-32-go-usb-c-cle-usb-66254216) — CHF 19,90 — plus bas égalé
 
 _Analyse automatisée fondée sur l’historique de prix disponible chez Galaxus. Les prix peuvent changer._

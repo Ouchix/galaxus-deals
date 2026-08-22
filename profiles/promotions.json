@@ -56,8 +56,8 @@
       {
         "url": "/fr/promotion/selection-de-produits-lego-de-15-de-reduction-10037",
         "name": "Sélection de produits LEGO de 15 % de réduction",
-        "total_count": 6,
-        "received_count": 6,
+        "total_count": 5,
+        "received_count": 5,
         "page_count": 1,
         "complete": true
       },
@@ -118,24 +118,28 @@
         "complete": true
       }
     ],
-    "source_total_count": 690,
+    "source_total_count": 689,
     "source_total_count_is_listing_sum": true,
-    "raw_received_count": 690,
-    "collected_unique_count": 688,
-    "selected_candidate_count": 688,
+    "raw_received_count": 689,
+    "collected_unique_count": 687,
+    "selected_candidate_count": 687,
     "collection_complete": true
   },
   "stats": {
-    "candidate_count": 688,
-    "checked_count": 688,
-    "qualified_count": 385,
-    "distinct_qualified_count": 320,
+    "candidate_count": 687,
+    "checked_count": 687,
+    "qualified_count": 384,
+    "distinct_qualified_count": 319,
     "variant_duplicates_removed": 65,
     "returned_count": 100,
     "history_cache_hits": 0,
-    "history_network_requests": 688,
+    "history_local_hits": 687,
+    "history_checkpoint_imports": 0,
+    "history_new_products": 0,
+    "history_network_requests": 0,
+    "daily_prices_recorded": 687,
     "outcomes": {
-      "new_low": 381,
+      "new_low": 380,
       "not_low": 232,
       "history_too_short": 71,
       "tied_low": 4
@@ -169,9 +173,9 @@
       "saving_vs_prior_min_pct": 52.5,
       "saving_vs_reference_pct": 55.01,
       "history_start": "2024-05-22",
-      "history_end": "2026-08-16",
+      "history_end": "2026-08-22",
       "history_days": 822,
-      "history_points": 72,
+      "history_points": 75,
       "current_price_since": "2026-08-16"
     },
     {
@@ -200,9 +204,9 @@
       "saving_vs_prior_min_pct": 34.51,
       "saving_vs_reference_pct": 45.01,
       "history_start": "2021-04-08",
-      "history_end": "2026-08-16",
+      "history_end": "2026-08-22",
       "history_days": 1962,
-      "history_points": 234,
+      "history_points": 237,
       "current_price_since": "2026-08-16"
     },
     {
@@ -231,9 +235,9 @@
       "saving_vs_prior_min_pct": 30.0,
       "saving_vs_reference_pct": 30.0,
       "history_start": "2021-01-05",
-      "history_end": "2026-08-16",
+      "history_end": "2026-08-22",
       "history_days": 2055,
-      "history_points": 330,
+      "history_points": 333,
       "current_price_since": "2026-08-16"
     },
     {
@@ -262,9 +266,9 @@
       "saving_vs_prior_min_pct": 30.0,
       "saving_vs_reference_pct": 30.0,
       "history_start": "2022-10-24",
-      "history_end": "2026-08-16",
+      "history_end": "2026-08-22",
       "history_days": 1398,
-      "history_points": 247,
+      "history_points": 250,
       "current_price_since": "2026-08-16"
     },
     {
@@ -293,9 +297,9 @@
       "saving_vs_prior_min_pct": 25.0,
       "saving_vs_reference_pct": 25.0,
       "history_start": "2022-03-14",
-      "history_end": "2026-08-16",
+      "history_end": "2026-08-22",
       "history_days": 1622,
-      "history_points": 193,
+      "history_points": 196,
       "current_price_since": "2026-08-16"
     },
     {
@@ -324,9 +328,9 @@
       "saving_vs_prior_min_pct": 24.05,
       "saving_vs_reference_pct": 30.0,
       "history_start": "2021-01-06",
-      "history_end": "2026-08-16",
+      "history_end": "2026-08-22",
       "history_days": 2054,
-      "history_points": 260,
+      "history_points": 263,
       "current_price_since": "2026-08-16"
     },
     {
@@ -355,9 +359,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-09",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 256,
-      "history_points": 9,
+      "history_points": 12,
       "current_price_since": "2026-08-17"
     },
     {
@@ -386,9 +390,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-03-20",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 155,
-      "history_points": 17,
+      "history_points": 20,
       "current_price_since": "2026-08-17"
     },
     {
@@ -417,9 +421,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-03-21",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 154,
-      "history_points": 10,
+      "history_points": 13,
       "current_price_since": "2026-08-17"
     },
     {
@@ -448,9 +452,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2024-05-22",
-      "history_end": "2026-08-16",
+      "history_end": "2026-08-22",
       "history_days": 822,
-      "history_points": 270,
+      "history_points": 273,
       "current_price_since": "2026-08-16"
     },
     {
@@ -479,9 +483,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-09",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 256,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -510,9 +514,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-23",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 242,
-      "history_points": 18,
+      "history_points": 21,
       "current_price_since": "2026-08-17"
     },
     {
@@ -541,9 +545,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-03-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 533,
-      "history_points": 41,
+      "history_points": 44,
       "current_price_since": "2026-08-17"
     },
     {
@@ -572,9 +576,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 12,
+      "history_points": 15,
       "current_price_since": "2026-08-17"
     },
     {
@@ -603,9 +607,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-09",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 256,
-      "history_points": 21,
+      "history_points": 24,
       "current_price_since": "2026-08-17"
     },
     {
@@ -634,9 +638,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-01-29",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 205,
-      "history_points": 4,
+      "history_points": 7,
       "current_price_since": "2026-08-17"
     },
     {
@@ -665,9 +669,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-03-06",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 169,
-      "history_points": 12,
+      "history_points": 15,
       "current_price_since": "2026-08-17"
     },
     {
@@ -696,9 +700,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-04-05",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 139,
-      "history_points": 9,
+      "history_points": 12,
       "current_price_since": "2026-08-17"
     },
     {
@@ -727,9 +731,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-04-05",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 139,
-      "history_points": 9,
+      "history_points": 12,
       "current_price_since": "2026-08-17"
     },
     {
@@ -758,9 +762,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-04-05",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 139,
-      "history_points": 9,
+      "history_points": 12,
       "current_price_since": "2026-08-17"
     },
     {
@@ -789,9 +793,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-04-05",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 139,
-      "history_points": 9,
+      "history_points": 12,
       "current_price_since": "2026-08-17"
     },
     {
@@ -820,9 +824,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-05-17",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 97,
-      "history_points": 4,
+      "history_points": 7,
       "current_price_since": "2026-08-17"
     },
     {
@@ -851,9 +855,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-09",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 256,
-      "history_points": 18,
+      "history_points": 21,
       "current_price_since": "2026-08-17"
     },
     {
@@ -882,9 +886,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-09",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 256,
-      "history_points": 23,
+      "history_points": 26,
       "current_price_since": "2026-08-17"
     },
     {
@@ -913,9 +917,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-03-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 533,
-      "history_points": 30,
+      "history_points": 33,
       "current_price_since": "2026-08-17"
     },
     {
@@ -944,9 +948,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2026-04-06",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 138,
-      "history_points": 3,
+      "history_points": 6,
       "current_price_since": "2026-08-17"
     },
     {
@@ -975,9 +979,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2023-09-28",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 1059,
-      "history_points": 68,
+      "history_points": 71,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1006,9 +1010,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2024-08-10",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 742,
-      "history_points": 45,
+      "history_points": 48,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1037,9 +1041,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2024-08-17",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 735,
-      "history_points": 66,
+      "history_points": 69,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1068,9 +1072,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2024-10-04",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 687,
-      "history_points": 37,
+      "history_points": 40,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1099,9 +1103,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-02-24",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 544,
-      "history_points": 20,
+      "history_points": 23,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1130,9 +1134,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-02-26",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 542,
-      "history_points": 52,
+      "history_points": 55,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1161,9 +1165,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-03-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 533,
-      "history_points": 23,
+      "history_points": 26,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1192,9 +1196,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-04-11",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 498,
-      "history_points": 33,
+      "history_points": 36,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1223,9 +1227,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-05-02",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 477,
-      "history_points": 56,
+      "history_points": 59,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1254,9 +1258,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-05-04",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 475,
-      "history_points": 33,
+      "history_points": 36,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1285,9 +1289,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-05-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 466,
-      "history_points": 31,
+      "history_points": 34,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1316,9 +1320,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-05-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 466,
-      "history_points": 29,
+      "history_points": 32,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1347,9 +1351,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-05-16",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 463,
-      "history_points": 22,
+      "history_points": 25,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1378,9 +1382,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-12",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 344,
-      "history_points": 20,
+      "history_points": 23,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1409,9 +1413,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 11,
+      "history_points": 14,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1440,9 +1444,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 9,
+      "history_points": 12,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1471,9 +1475,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 10,
+      "history_points": 13,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1502,9 +1506,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 15,
+      "history_points": 18,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1533,9 +1537,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 20,
+      "history_points": 23,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1564,9 +1568,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 25,
+      "history_points": 28,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1595,9 +1599,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 16,
+      "history_points": 19,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1626,9 +1630,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1657,9 +1661,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1688,9 +1692,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 10,
+      "history_points": 13,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1719,9 +1723,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 7,
+      "history_points": 10,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1750,9 +1754,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-13",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 343,
-      "history_points": 11,
+      "history_points": 14,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1781,9 +1785,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-09-20",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 336,
-      "history_points": 18,
+      "history_points": 21,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1812,9 +1816,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 8,
+      "history_points": 11,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1843,9 +1847,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 8,
+      "history_points": 11,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1874,9 +1878,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 23,
+      "history_points": 26,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1905,9 +1909,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 21,
+      "history_points": 24,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1936,9 +1940,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 11,
+      "history_points": 14,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1967,9 +1971,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 11,
+      "history_points": 14,
       "current_price_since": "2026-08-17"
     },
     {
@@ -1998,9 +2002,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 10,
+      "history_points": 13,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2029,9 +2033,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2060,9 +2064,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2091,9 +2095,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 12,
+      "history_points": 15,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2122,9 +2126,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 25,
+      "history_points": 28,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2153,9 +2157,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 33,
+      "history_points": 36,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2184,9 +2188,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 18,
+      "history_points": 21,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2215,9 +2219,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2246,9 +2250,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2277,9 +2281,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2308,9 +2312,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 12,
+      "history_points": 15,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2339,9 +2343,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2370,9 +2374,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 15,
+      "history_points": 18,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2401,9 +2405,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2432,9 +2436,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 16,
+      "history_points": 19,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2463,9 +2467,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 41,
+      "history_points": 44,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2494,9 +2498,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2525,9 +2529,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 10,
+      "history_points": 13,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2556,9 +2560,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 24,
+      "history_points": 27,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2587,9 +2591,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-07",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 258,
-      "history_points": 8,
+      "history_points": 11,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2618,9 +2622,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 8,
+      "history_points": 11,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2649,9 +2653,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 17,
+      "history_points": 20,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2680,9 +2684,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 11,
+      "history_points": 14,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2711,9 +2715,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 17,
+      "history_points": 20,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2742,9 +2746,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 10,
+      "history_points": 13,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2773,9 +2777,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 9,
+      "history_points": 12,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2804,9 +2808,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2835,9 +2839,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2866,9 +2870,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2897,9 +2901,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 12,
+      "history_points": 15,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2928,9 +2932,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2959,9 +2963,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 15,
+      "history_points": 18,
       "current_price_since": "2026-08-17"
     },
     {
@@ -2990,9 +2994,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -3021,9 +3025,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 17,
+      "history_points": 20,
       "current_price_since": "2026-08-17"
     },
     {
@@ -3052,9 +3056,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 14,
+      "history_points": 17,
       "current_price_since": "2026-08-17"
     },
     {
@@ -3083,9 +3087,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 15,
+      "history_points": 18,
       "current_price_since": "2026-08-17"
     },
     {
@@ -3114,9 +3118,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -3145,9 +3149,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 15,
+      "history_points": 18,
       "current_price_since": "2026-08-17"
     },
     {
@@ -3176,9 +3180,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-08",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 257,
-      "history_points": 7,
+      "history_points": 10,
       "current_price_since": "2026-08-17"
     },
     {
@@ -3207,9 +3211,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-09",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 256,
-      "history_points": 13,
+      "history_points": 16,
       "current_price_since": "2026-08-17"
     },
     {
@@ -3238,9 +3242,9 @@
       "saving_vs_prior_min_pct": 20.0,
       "saving_vs_reference_pct": 20.0,
       "history_start": "2025-12-09",
-      "history_end": "2026-08-17",
+      "history_end": "2026-08-22",
       "history_days": 256,
-      "history_points": 9,
+      "history_points": 12,
       "current_price_since": "2026-08-17"
     }
   ]
