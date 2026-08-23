@@ -1,10 +1,10 @@
 # Galaxus Price Watch
 
-Mise à jour : 22 août 2026 à 12:02 UTC
+Mise à jour : 23 août 2026 à 10:23 UTC
 
 ## Promotions Galaxus
 
-319 produits distincts au minimum parmi 687 prix vérifiés.
+318 produits distincts au minimum parmi 686 prix vérifiés.
 Pagination complète de la source confirmée.
 
 1. [Shimano ET7 48](https://www.galaxus.ch/fr/s3/product/shimano-et7-48-chaussures-de-cyclisme-34776639) — CHF 42,70 — nouveau plus bas
@@ -110,7 +110,7 @@ Pagination complète de la source confirmée.
 
 ## Déstockage Galaxus
 
-1357 produits distincts au minimum parmi 2152 prix vérifiés.
+1427 produits distincts au minimum parmi 2239 prix vérifiés.
 Pagination complète de la source confirmée.
 
 1. [Steinel Fil de soudure](https://www.galaxus.ch/fr/s4/product/steinel-fil-de-soudure-poste-a-souder-accessoires-8401881) — CHF 2 — nouveau plus bas
@@ -130,93 +130,93 @@ Pagination complète de la source confirmée.
 15. [small foot Holzbuchstabe Kinderzimmer N](https://www.galaxus.ch/fr/s10/product/small-foot-holzbuchstabe-kinderzimmer-n-lettre-en-bois-en-tissu-42942302) — CHF 2 — nouveau plus bas
 16. [small foot Lettre en bois chambre d'enfant J](https://www.galaxus.ch/fr/s10/product/small-foot-lettre-en-bois-chambre-denfant-j-lettre-en-bois-en-tissu-42942382) — CHF 1 — nouveau plus bas
 17. [Shimano Badge ST-R9100 Droite, vis de fixation incluse](https://www.galaxus.ch/fr/s12/product/shimano-badge-st-r9100-droite-vis-de-fixation-incluse-panneau-dinformation-39188936) — CHF 8,10 — nouveau plus bas
-18. [Rayher Holz- Buchstabe A, FSC Mix Credit, 6cm ø](https://www.galaxus.ch/fr/s10/product/rayher-holz-buchstabe-a-fsc-mix-credit-6cm-lettre-en-bois-en-tissu-43002879) — CHF 0,85 — nouveau plus bas
-19. [Rayher Holz- Buchstabe E, FSC Mix Credit, 6cm ø](https://www.galaxus.ch/fr/s10/product/rayher-holz-buchstabe-e-fsc-mix-credit-6cm-lettre-en-bois-en-tissu-43000698) — CHF 0,85 — nouveau plus bas
-20. [Kiepenkerl Futterkohl Inka Graines de légumes](https://www.galaxus.ch/fr/s4/product/kiepenkerl-futterkohl-inka-graines-de-legumes-graines-65896142) — CHF 1,20 — nouveau plus bas
-21. [Badabulle Gobelet à paille](https://www.galaxus.ch/fr/s10/product/badabulle-gobelet-a-paille-vaisselle-couverts-pour-enfants-19844835) — CHF 2 — nouveau plus bas
-22. [Eibenstock Elektrowerkzeuge GmbH Eibensto anneau en cuivre pour faciliter le dégagement du foret](https://www.galaxus.ch/fr/s4/product/eibenstock-elektrowerkzeuge-gmbh-eibensto-anneau-en-cuivre-pour-faciliter-le-degagement-du-foret-eta-33901270) — CHF 1,80 — nouveau plus bas
-23. [Bieco Lettre « B » « Ours » « L »](https://www.galaxus.ch/fr/s10/product/bieco-lettre-b-ours-l-lettre-en-bois-en-tissu-49827551) — CHF 1,70 — nouveau plus bas
-24. [Eduplay Eier-Malkreide 6er Set 6x](https://www.galaxus.ch/fr/s5/product/eduplay-eier-malkreide-6er-set-6x-craies-de-trottoir-35338257) — CHF 3,10 — nouveau plus bas
-25. [Energizer SR64 (319) 1 pcs, SR64, 22.50 mAh](https://www.galaxus.ch/fr/s1/product/energizer-sr64-319-1-pcs-sr64-2250-mah-batteries-piles-11052107) — CHF 1,60 — nouveau plus bas
-26. [Blum Fixation frontale LEGRABOX 1 pcs](https://www.galaxus.ch/fr/s4/product/blum-fixation-frontale-legrabox-1-pcs-mobilier-equipements-16089053) — CHF 0,80 — nouveau plus bas
-27. [Orthex Dessous de plat CULTIVATE, diamètre : 240 mm, noir](https://www.galaxus.ch/fr/s4/product/orthex-dessous-de-plat-cultivate-diametre-240-mm-noir-pots-de-fleurs-accessoires-34572627) — CHF 1,50 — nouveau plus bas
-28. [Glorex Peinture à la résine de coulée 20ml 20 ml](https://www.galaxus.ch/fr/s4/product/glorex-peinture-a-la-resine-de-coulee-20ml-20-ml-peinture-loisirs-creatifs-39399220) — CHF 2,30 — nouveau plus bas
-29. [Wera 800/1 Z 1,6 x 8,0 x 25 mm Fente de vis](https://www.galaxus.ch/fr/s4/product/wera-8001-z-16-x-80-x-25-mm-fente-de-vis-embouts-24142695) — CHF 1,30 — nouveau plus bas
-30. [Amewi XH Balancer-Verlängerung 4S 200mm](https://www.galaxus.ch/fr/s5/product/amewi-xh-balancer-verlaengerung-4s-200mm-batterie-rc-59713995) — CHF 1,50 — nouveau plus bas
-31. [OEM Cable Cable Type C to Type C PD QC 3A 60W C293 2 m white 2 m, USB 3.2 Gen 1, 60 W](https://www.galaxus.ch/fr/s1/product/oem-cable-cable-type-c-to-type-c-pd-qc-3a-60w-c293-2-m-white-2-m-usb-32-gen-1-60-w-cable-usb-47832499) — CHF 6,20 — nouveau plus bas
-32. [Banpresto One Piece - Monkey D. Luffy The Grandline DXF](https://www.galaxus.ch/fr/s5/product/banpresto-one-piece-monkey-d-luffy-the-grandline-dxf-figurine-a-collectionner-25419148) — CHF 9,60 — nouveau plus bas
-33. [Geographical Norway Short Pakito DB 256 M SY1621H/GN-Black XXL](https://www.galaxus.ch/fr/s8/product/geographical-norway-short-pakito-db-256-m-sy1621hgn-black-xxl-short-59449380) — CHF 18,90 — nouveau plus bas
-34. [Celsa Modification du câble](https://www.galaxus.ch/fr/s1/product/celsa-modification-du-cable-transformateur-40861138) — CHF 30,90 — nouveau plus bas
+18. [Glorex Pendentif en bois "Hérisson](https://www.galaxus.ch/fr/s5/product/glorex-pendentif-en-bois-herisson-fournitures-de-base-39373690) — CHF 1,10 — nouveau plus bas
+19. [Rayher Holz- Buchstabe A, FSC Mix Credit, 6cm ø](https://www.galaxus.ch/fr/s10/product/rayher-holz-buchstabe-a-fsc-mix-credit-6cm-lettre-en-bois-en-tissu-43002879) — CHF 0,85 — nouveau plus bas
+20. [Rayher Holz- Buchstabe E, FSC Mix Credit, 6cm ø](https://www.galaxus.ch/fr/s10/product/rayher-holz-buchstabe-e-fsc-mix-credit-6cm-lettre-en-bois-en-tissu-43000698) — CHF 0,85 — nouveau plus bas
+21. [Kiepenkerl Futterkohl Inka Graines de légumes](https://www.galaxus.ch/fr/s4/product/kiepenkerl-futterkohl-inka-graines-de-legumes-graines-65896142) — CHF 1,20 — nouveau plus bas
+22. [Badabulle Gobelet à paille](https://www.galaxus.ch/fr/s10/product/badabulle-gobelet-a-paille-vaisselle-couverts-pour-enfants-19844835) — CHF 2 — nouveau plus bas
+23. [Eibenstock Elektrowerkzeuge GmbH Eibensto anneau en cuivre pour faciliter le dégagement du foret](https://www.galaxus.ch/fr/s4/product/eibenstock-elektrowerkzeuge-gmbh-eibensto-anneau-en-cuivre-pour-faciliter-le-degagement-du-foret-eta-33901270) — CHF 1,80 — nouveau plus bas
+24. [Bieco Lettre « B » « Ours » « L »](https://www.galaxus.ch/fr/s10/product/bieco-lettre-b-ours-l-lettre-en-bois-en-tissu-49827551) — CHF 1,70 — nouveau plus bas
+25. [Tobis La zone d'intérêt BD Blu-ray, 2024, Allemand](https://www.galaxus.ch/fr/s12/product/la-zone-dinteret-bd-blu-ray-2024-allemand-films-series-43781008) — CHF 6,10 — nouveau plus bas
+26. [Eduplay Eier-Malkreide 6er Set 6x](https://www.galaxus.ch/fr/s5/product/eduplay-eier-malkreide-6er-set-6x-craies-de-trottoir-35338257) — CHF 3,10 — nouveau plus bas
+27. [Energizer SR64 (319) 1 pcs, SR64, 22.50 mAh](https://www.galaxus.ch/fr/s1/product/energizer-sr64-319-1-pcs-sr64-2250-mah-batteries-piles-11052107) — CHF 1,60 — nouveau plus bas
+28. [Blum Fixation frontale LEGRABOX 1 pcs](https://www.galaxus.ch/fr/s4/product/blum-fixation-frontale-legrabox-1-pcs-mobilier-equipements-16089053) — CHF 0,80 — nouveau plus bas
+29. [Glorex Peinture à la résine de coulée 20ml 20 ml](https://www.galaxus.ch/fr/s4/product/glorex-peinture-a-la-resine-de-coulee-20ml-20-ml-peinture-loisirs-creatifs-39399220) — CHF 2,30 — nouveau plus bas
+30. [Wera 800/1 Z 1,6 x 8,0 x 25 mm Fente de vis](https://www.galaxus.ch/fr/s4/product/wera-8001-z-16-x-80-x-25-mm-fente-de-vis-embouts-24142695) — CHF 1,30 — nouveau plus bas
+31. [Amewi XH Balancer-Verlängerung 4S 200mm](https://www.galaxus.ch/fr/s5/product/amewi-xh-balancer-verlaengerung-4s-200mm-batterie-rc-59713995) — CHF 1,50 — nouveau plus bas
+32. [OEM Cable Cable Type C to Type C PD QC 3A 60W C293 2 m white 2 m, USB 3.2 Gen 1, 60 W](https://www.galaxus.ch/fr/s1/product/oem-cable-cable-type-c-to-type-c-pd-qc-3a-60w-c293-2-m-white-2-m-usb-32-gen-1-60-w-cable-usb-47832499) — CHF 6,20 — nouveau plus bas
+33. [Banpresto One Piece - Monkey D. Luffy The Grandline DXF](https://www.galaxus.ch/fr/s5/product/banpresto-one-piece-monkey-d-luffy-the-grandline-dxf-figurine-a-collectionner-25419148) — CHF 9,60 — nouveau plus bas
+34. [Brady PermaSleeve 44.50 mm](https://www.galaxus.ch/fr/s12/product/brady-permasleeve-4450-mm-rouleau-detiquettes-33146042) — CHF 18,90 — nouveau plus bas
 35. [Screenguard Flexible TPU Clear Case Apple iPhone 14 Plus](https://www.galaxus.ch/fr/s1/product/screenguard-flexible-tpu-clear-case-apple-iphone-14-plus-coque-pour-telephone-portable-22458372) — CHF 0,85 — nouveau plus bas
 36. [Clairefontaine Koverbook Couverture souple](https://www.galaxus.ch/fr/s12/product/clairefontaine-koverbook-couverture-souple-cahier-bloc-notes-21633951) — CHF 1,70 — nouveau plus bas
 37. [small foot Lettre en bois chambre d'enfant U](https://www.galaxus.ch/fr/s10/product/small-foot-lettre-en-bois-chambre-denfant-u-lettre-en-bois-en-tissu-42942194) — CHF 1 — nouveau plus bas
 38. [Schubert Szilvia Szita Allemand, 2023, Anne Busha, Szilvia Szita Szita](https://www.galaxus.ch/fr/s18/product/szilvia-szita-allemand-2023-anne-busha-szilvia-szita-szita-manuels-de-langue-39026820) — CHF 4,70 — nouveau plus bas
-39. [Bodum Kit de pailles portables](https://www.galaxus.ch/fr/s2/product/bodum-kit-de-pailles-portables-pailles-46493393) — CHF 2,30 — nouveau plus bas
-40. [Tib Ring 3 pcs](https://www.galaxus.ch/fr/s5/product/tib-ring-3-pcs-decorations-de-fete-18473161) — CHF 0,75 — nouveau plus bas
-41. [Screenguard Xiaomi 14T Housse Carbon Brushed Soft TPU Xiaomi 14T](https://www.galaxus.ch/fr/s1/product/screenguard-xiaomi-14t-housse-carbon-brushed-soft-tpu-xiaomi-14t-coque-pour-telephone-portable-53096196) — CHF 1,20 — nouveau plus bas
-42. [small foot Train alphabet polaire lettre V](https://www.galaxus.ch/fr/s10/product/small-foot-train-alphabet-polaire-lettre-v-lettre-en-bois-en-tissu-47501479) — CHF 0,50 — nouveau plus bas
-43. [Datalogic Vehicle Dock Memor 10](https://www.galaxus.ch/fr/s1/product/datalogic-vehicle-dock-memor-10-lecteur-de-codes-barres-accessoires-10608587) — CHF 52,50 — nouveau plus bas
-44. [Beltz & Gelberg Voyages - Neue Ausgabe. Trainingsbuch A1 Allemand, 2014, Anne-Sophie Fauvel, Nicole Verger](https://www.galaxus.ch/fr/s18/product/voyages-neue-ausgabe-trainingsbuch-a1-allemand-2014-anne-sophie-fauvel-nicole-verger-manuels-de-lang-6511275) — CHF 4,20 — nouveau plus bas
-45. [Simonswerk Partie du cadre VARIANT V 8100 WF U](https://www.galaxus.ch/fr/s4/product/simonswerk-partie-du-cadre-variant-v-8100-wf-u-paumelle-de-porte-10880546) — CHF 0,90 — nouveau plus bas
-46. [Vesrah CC Revêtement 004](https://www.galaxus.ch/fr/s3/product/vesrah-cc-revetement-004-outils-pour-velo-8216148) — CHF 0,50 — nouveau plus bas
-47. [Ledvance LED Downlight encastré plat Downlight Slim square 210 18W/3000K WT 18W 3000K 1530lm 30000h... Matières plastiques](https://www.galaxus.ch/fr/s14/product/ledvance-led-downlight-encastre-plat-downlight-slim-square-210-18w3000k-wt-18w-3000k-1530lm-30000h-m-10348124) — CHF 6 — nouveau plus bas
-48. [Schäfer Shop Bande d'agrafes, polypropylène, différents modèles, 100 pièces](https://www.galaxus.ch/fr/s12/product/schaefer-shop-bande-dagrafes-polypropylene-differents-modeles-100-pieces-classeur-accessoires-19672333) — CHF 0,75 — nouveau plus bas
-49. [Bitspower Adaptateur Advanced Multi-Link Raccord 90 degrés G1/4 pouce M sur 16mm AD Hardtube - pivotant](https://www.galaxus.ch/fr/s1/product/bitspower-adaptateur-advanced-multi-link-raccord-90-degres-g14-pouce-m-sur-16mm-ad-hardtube-pivotant-20638271) — CHF 1,60 — nouveau plus bas
-50. [iXS MÃ©canisme de visÃ©e iXS100](https://www.galaxus.ch/fr/s4/product/ixs-mcanisme-de-vise-ixs100-casque-moto-accessoires-21432274) — CHF 3,60 — nouveau plus bas
-51. [Godox Adaptateur d'alimentation Pour VL200 Godox](https://www.galaxus.ch/fr/s1/product/godox-adaptateur-dalimentation-pour-vl200-godox-flash-22460849) — CHF 14,70 — nouveau plus bas
-52. [Pferd Brosse intérieure IBU 38100/1/2 BSW ST 0.30 UE : 10](https://www.galaxus.ch/fr/s4/product/pferd-brosse-interieure-ibu-3810012-bsw-st-030-ue-10-abrasifs-22938431) — CHF 1,70 — nouveau plus bas
-53. [Promedia Zensur Allemand, Hannes Hofbauer, 2022](https://www.galaxus.ch/fr/s18/product/zensur-allemand-hannes-hofbauer-2022-ouvrages-specialises-39025738) — CHF 2,70 — nouveau plus bas
-54. [Troika 5 Mines de rechanges pour Roller, bleu Bleu, 0.80 mm, 5 pcs](https://www.galaxus.ch/fr/s12/product/troika-5-mines-de-rechanges-pour-roller-bleu-bleu-080-mm-5-pcs-cartouche-de-rechange-encrier-41237653) — CHF 5,30 — nouveau plus bas
-55. [Chicco Adaptateurs One4Ever](https://www.galaxus.ch/fr/s10/product/chicco-adaptateurs-one4ever-poussette-accessoires-42081066) — CHF 2 — nouveau plus bas
-56. [Dehn Kit de montage pour DEHNpatch et DEHNgate 929200](https://www.galaxus.ch/fr/s4/product/dehn-kit-de-montage-pour-dehnpatch-et-dehngate-929200-protection-contre-les-surtensions-33786332) — CHF 0,75 — nouveau plus bas
-57. [Brotect Protection Clair Samsung Galaxy S20 5G](https://www.galaxus.ch/fr/s1/product/brotect-protection-clair-samsung-galaxy-s20-5g-telephone-portable-film-de-protection-43939884) — CHF 0,60 — nouveau plus bas
-58. [Amewi Tête de rotor en aluminium MD500E](https://www.galaxus.ch/fr/s5/product/amewi-tete-de-rotor-en-aluminium-md500e-helicoptere-rc-accessoires-51912186) — CHF 2,40 — nouveau plus bas
+39. [Diverse Sachets Vac 160x225mm 90my Std](https://www.galaxus.ch/fr/s7/product/sachets-vac-160x225mm-90my-std-emballage-alimentaire-46700687) — CHF 0,60 — nouveau plus bas
+40. [Bodum Kit de pailles portables](https://www.galaxus.ch/fr/s2/product/bodum-kit-de-pailles-portables-pailles-46493393) — CHF 2,30 — nouveau plus bas
+41. [Tib Ring 3 pcs](https://www.galaxus.ch/fr/s5/product/tib-ring-3-pcs-decorations-de-fete-18473161) — CHF 0,75 — nouveau plus bas
+42. [Screenguard Xiaomi 14T Housse Carbon Brushed Soft TPU Xiaomi 14T](https://www.galaxus.ch/fr/s1/product/screenguard-xiaomi-14t-housse-carbon-brushed-soft-tpu-xiaomi-14t-coque-pour-telephone-portable-53096196) — CHF 1,20 — nouveau plus bas
+43. [small foot Train alphabet polaire lettre V](https://www.galaxus.ch/fr/s10/product/small-foot-train-alphabet-polaire-lettre-v-lettre-en-bois-en-tissu-47501479) — CHF 0,50 — nouveau plus bas
+44. [Datalogic Vehicle Dock Memor 10](https://www.galaxus.ch/fr/s1/product/datalogic-vehicle-dock-memor-10-lecteur-de-codes-barres-accessoires-10608587) — CHF 52,50 — nouveau plus bas
+45. [Beltz & Gelberg Voyages - Neue Ausgabe. Trainingsbuch A1 Allemand, 2014, Anne-Sophie Fauvel, Nicole Verger](https://www.galaxus.ch/fr/s18/product/voyages-neue-ausgabe-trainingsbuch-a1-allemand-2014-anne-sophie-fauvel-nicole-verger-manuels-de-lang-6511275) — CHF 4,20 — nouveau plus bas
+46. [Simonswerk Partie du cadre VARIANT V 8100 WF U](https://www.galaxus.ch/fr/s4/product/simonswerk-partie-du-cadre-variant-v-8100-wf-u-paumelle-de-porte-10880546) — CHF 0,90 — nouveau plus bas
+47. [Vesrah CC Revêtement 004](https://www.galaxus.ch/fr/s3/product/vesrah-cc-revetement-004-outils-pour-velo-8216148) — CHF 0,50 — nouveau plus bas
+48. [Ricoh 408314 CF](https://www.galaxus.ch/fr/s1/product/ricoh-408314-cf-toner-13436264) — CHF 28,90 — nouveau plus bas
+49. [Ledvance LED Downlight encastré plat Downlight Slim square 210 18W/3000K WT 18W 3000K 1530lm 30000h... Matières plastiques](https://www.galaxus.ch/fr/s14/product/ledvance-led-downlight-encastre-plat-downlight-slim-square-210-18w3000k-wt-18w-3000k-1530lm-30000h-m-10348124) — CHF 6 — nouveau plus bas
+50. [Schäfer Shop Bande d'agrafes, polypropylène, différents modèles, 100 pièces](https://www.galaxus.ch/fr/s12/product/schaefer-shop-bande-dagrafes-polypropylene-differents-modeles-100-pieces-classeur-accessoires-19672333) — CHF 0,75 — nouveau plus bas
+51. [Bitspower Adaptateur Advanced Multi-Link Raccord 90 degrés G1/4 pouce M sur 16mm AD Hardtube - pivotant](https://www.galaxus.ch/fr/s1/product/bitspower-adaptateur-advanced-multi-link-raccord-90-degres-g14-pouce-m-sur-16mm-ad-hardtube-pivotant-20638271) — CHF 1,60 — nouveau plus bas
+52. [iXS MÃ©canisme de visÃ©e iXS100](https://www.galaxus.ch/fr/s4/product/ixs-mcanisme-de-vise-ixs100-casque-moto-accessoires-21432274) — CHF 3,60 — nouveau plus bas
+53. [Pferd Brosse intérieure IBU 38100/1/2 BSW ST 0.30 UE : 10](https://www.galaxus.ch/fr/s4/product/pferd-brosse-interieure-ibu-3810012-bsw-st-030-ue-10-abrasifs-22938431) — CHF 1,70 — nouveau plus bas
+54. [Promedia Zensur Allemand, Hannes Hofbauer, 2022](https://www.galaxus.ch/fr/s18/product/zensur-allemand-hannes-hofbauer-2022-ouvrages-specialises-39025738) — CHF 2,70 — nouveau plus bas
+55. [Troika 5 Mines de rechanges pour Roller, bleu Bleu, 0.80 mm, 5 pcs](https://www.galaxus.ch/fr/s12/product/troika-5-mines-de-rechanges-pour-roller-bleu-bleu-080-mm-5-pcs-cartouche-de-rechange-encrier-41237653) — CHF 5,30 — nouveau plus bas
+56. [Chicco Adaptateurs One4Ever](https://www.galaxus.ch/fr/s10/product/chicco-adaptateurs-one4ever-poussette-accessoires-42081066) — CHF 2 — nouveau plus bas
+57. [Dehn Kit de montage pour DEHNpatch et DEHNgate 929200](https://www.galaxus.ch/fr/s4/product/dehn-kit-de-montage-pour-dehnpatch-et-dehngate-929200-protection-contre-les-surtensions-33786332) — CHF 0,75 — nouveau plus bas
+58. [Brotect Protection Clair Samsung Galaxy S20 5G](https://www.galaxus.ch/fr/s1/product/brotect-protection-clair-samsung-galaxy-s20-5g-telephone-portable-film-de-protection-43939884) — CHF 0,60 — nouveau plus bas
 59. [3MK Matte foil Silky Matt Pro for Honor X8c Honor X8c](https://www.galaxus.ch/fr/s1/product/3mk-matte-foil-silky-matt-pro-for-honor-x8c-honor-x8c-telephone-portable-film-de-protection-54060144) — CHF 1,30 — nouveau plus bas
 60. [Haushalt Numéro de maison en acier inoxydable Ss-5 145mm](https://www.galaxus.ch/fr/s1/product/haushalt-numero-de-maison-en-acier-inoxydable-ss-5-145mm-armoire-serveur-accessoires-36515758) — CHF 1,50 — nouveau plus bas
 61. [Hammerbacher Armoire mixte à portes battantes V9 80 x 41.70 x 215.60 cm](https://www.galaxus.ch/fr/s14/product/hammerbacher-armoire-mixte-a-portes-battantes-v9-80-x-4170-x-21560-cm-armoire-de-bureau-45397739) — CHF 149 — nouveau plus bas
-62. [Epson WLAN Modul UB-R05](https://www.galaxus.ch/fr/s1/product/epson-wlan-modul-ub-r05-imprimante-accessoires-16243308) — CHF 32 — nouveau plus bas
-63. [Institut Esthederm Cryo Modelant Mask 20g 20 g](https://www.galaxus.ch/fr/s6/product/institut-esthederm-cryo-modelant-mask-20g-20-g-masque-pour-le-visage-48306316) — CHF 16,50 — nouveau plus bas
-64. [DJI AUTEL Battery Charging Hub pour contrôleur intelligent SE](https://www.galaxus.ch/fr/s1/product/dji-autel-battery-charging-hub-pour-controleur-intelligent-se-drone-accessoires-49449374) — CHF 14,50 — nouveau plus bas
-65. [GreenCell Batterie d'ordinateur portable pour Lenovo ThinkPad E480 E485 E490 - 4100 mAh 3 cabines, 4100 mAh](https://www.galaxus.ch/fr/s1/product/greencell-batterie-dordinateur-portable-pour-lenovo-thinkpad-e480-e485-e490-4100-mah-3-cabines-4100--40246910) — CHF 7,40 — nouveau plus bas
-66. [Caruba Panasonic DMW DCC12 décodage complet batterie factice (câble à ressort)](https://www.galaxus.ch/fr/s1/product/caruba-panasonic-dmw-dcc12-decodage-complet-batterie-factice-cable-a-ressort-alimentation-pour-appar-22735636) — CHF 7 — nouveau plus bas
-67. [Apogee 1m USB-A cable Quartet Duet ONE for Quartet, Duet Cordes](https://www.galaxus.ch/fr/s1/product/apogee-1m-usb-a-cable-quartet-duet-one-for-quartet-duet-cordes-enregistrement-accessoires-21255075) — CHF 5,70 — nouveau plus bas
-68. [Delock USB mini-A - USB-A, coudé, OTG 0.50 m, USB 2.0](https://www.galaxus.ch/fr/s1/product/delock-usb-mini-a-usb-a-coude-otg-050-m-usb-20-cable-usb-11781439) — CHF 2,70 — nouveau plus bas
-69. [Klingspor PS 19 EK - Disques 115 mm 40](https://www.galaxus.ch/fr/s4/product/klingspor-ps-19-ek-disques-115-mm-40-abrasifs-36990932) — CHF 5,20 — nouveau plus bas
-70. [Chalice La dernière barrière Allemand, 2014, Reshad Feild, Robert Cathomas](https://www.galaxus.ch/fr/s18/product/la-derniere-barriere-allemand-2014-reshad-feild-robert-cathomas-biographies-7467715) — CHF 4,10 — nouveau plus bas
-71. [Chalice Wissen, dass wir geliebt sind Allemand, Jochen Eggert, Reshad Feild, 2014](https://www.galaxus.ch/fr/s18/product/wissen-dass-wir-geliebt-sind-allemand-jochen-eggert-reshad-feild-2014-fiction-8983847) — CHF 4 — nouveau plus bas
-72. [Vds Autocollant de voiture Tesla "I bought this before Elon went crazy" (Je l'ai acheté avant qu'Elon 1 Autocollants](https://www.galaxus.ch/fr/s12/product/vds-autocollant-de-voiture-tesla-i-bought-this-before-elon-went-crazy-je-lai-achete-avant-quelon-1-a-54063424) — CHF 3,70 — nouveau plus bas
-73. [Screenguard SpaceCase Xiaomi Redmi 14C](https://www.galaxus.ch/fr/s1/product/screenguard-spacecase-xiaomi-redmi-14c-coque-pour-telephone-portable-53142958) — CHF 3,30 — nouveau plus bas
-74. [National Geographic Life Intermediate Student's Book Split B with App Code Anglais, Helen Stephenson, John Hughes, Paul Dummett, 2018](https://www.galaxus.ch/fr/s18/product/national-geographic-life-intermediate-students-book-split-b-with-app-code-anglais-helen-stephenson-j-17344259) — CHF 3,30 — nouveau plus bas
-75. [Westend Wem gehört Deutschland? Allemand, Jens Berger, 2024](https://www.galaxus.ch/fr/s18/product/wem-gehoert-deutschland-allemand-jens-berger-2024-ouvrages-specialises-46015493) — CHF 3,30 — nouveau plus bas
-76. [Xonox Home Accessoires](https://www.galaxus.ch/fr/s14/product/xonox-home-accessoires-boite-de-rangement-20926501) — CHF 3 — nouveau plus bas
-77. [Ursus Carton photo 300 g/m2 300 g/m²](https://www.galaxus.ch/fr/s12/product/ursus-carton-photo-300-gm2-300-gm-papier-a-bricolage-6407700) — CHF 1,10 — nouveau plus bas
-78. [Magni Pince de serrage DIN6499B ER25 10mm FORTIS](https://www.galaxus.ch/fr/s4/product/magni-pince-de-serrage-din6499b-er25-10mm-fortis-machine-accessoires-31196103) — CHF 2,70 — nouveau plus bas
-79. [Zeller Present set de table, plastique, gris 1 pcs, 45 x 30 cm](https://www.galaxus.ch/fr/s14/product/zeller-present-set-de-table-plastique-gris-1-pcs-45-x-30-cm-sets-de-table-42851346) — CHF 2,60 — nouveau plus bas
-80. [Eaton Borne de raccordement](https://www.galaxus.ch/fr/s4/product/eaton-borne-de-raccordement-solutions-pour-armoire-de-distribution-36757081) — CHF 2,40 — nouveau plus bas
-81. [Sunmi Base-Sunmi M2 POS charging station](https://www.galaxus.ch/fr/s1/product/sunmi-base-sunmi-m2-pos-charging-station-chargeur-de-secours-21101555) — CHF 2,10 — nouveau plus bas
-82. [Weber Bâche de protection](https://www.galaxus.ch/fr/s4/product/weber-bache-de-protection-housse-pour-barbecue-3497182) — CHF 30,60 — nouveau plus bas
-83. [Busch-Jaeger Cadre](https://www.galaxus.ch/fr/s4/product/busch-jaeger-cadre-accessoires-gamme-dinterrupteurs-20022722) — CHF 1,70 — nouveau plus bas
-84. [Cellfast Filtre de connexion Fap Raccord de tuyau](https://www.galaxus.ch/fr/s4/product/cellfast-filtre-de-connexion-fap-raccord-de-tuyau-raccord-de-tuyau-connecteur-de-tuyau-35621215) — CHF 1,60 — nouveau plus bas
-85. [Tools-2-Groom Tang de clous Petit](https://www.galaxus.ch/fr/s6/product/tools-2-groom-tang-de-clous-petit-appareil-de-soin-des-ongles-39146089) — CHF 1,50 — nouveau plus bas
-86. [Halemeier Distributeur LED 6x MP 24 V - LED 24 V](https://www.galaxus.ch/fr/s14/product/halemeier-distributeur-led-6x-mp-24-v-led-24-v-eclairage-accessoires-10862134) — CHF 1,30 — nouveau plus bas
-87. [Diverse Sachets Vac 160x225mm 90my Std](https://www.galaxus.ch/fr/s7/product/sachets-vac-160x225mm-90my-std-emballage-alimentaire-46700687) — CHF 1,20 — nouveau plus bas
-88. [Delock Presse-étoupe 90° coudé PG11 gris](https://www.galaxus.ch/fr/s4/product/delock-presse-etoupe-90-coude-pg11-gris-connecteur-pour-cable-17240136) — CHF 2,30 — nouveau plus bas
-89. [Crowell Lycra Jr Badekappe Schwarz](https://www.galaxus.ch/fr/s3/product/crowell-lycra-jr-badekappe-schwarz-bonnet-de-bain-35730640) — CHF 3,18 — nouveau plus bas
-90. [Ferm Living Siège de remplacement Desert Lounge](https://www.galaxus.ch/fr/s14/product/ferm-living-siege-de-remplacement-desert-lounge-fauteuil-45377088) — CHF 19 — nouveau plus bas
-91. [Delock Câble réseau RJ45 Cat.6 UTP Ultra Slim 1 m gris avec UTP, CAT6, 1 m](https://www.galaxus.ch/fr/s1/product/delock-cable-reseau-rj45-cat6-utp-ultra-slim-1-m-gris-avec-utp-cat6-1-m-cable-reseau-47088609) — CHF 3,30 — nouveau plus bas
-92. [hobbytime Brillant-Glitter fine, 4,5 g marine](https://www.galaxus.ch/fr/s5/product/hobbytime-brillant-glitter-fine-45-g-marine-autres-fournitures-12449216) — CHF 1,50 — nouveau plus bas
-93. [Trilux Cadre de montage ArimoFit M84-TS ZER](https://www.galaxus.ch/fr/s1/product/trilux-cadre-de-montage-arimofit-m84-ts-zer-reseau-accessoires-31346718) — CHF 22,30 — nouveau plus bas
-94. [Playshoes Chaussettes thermiques Ours polaire T. 86/92 Bleu clair 86/92](https://www.galaxus.ch/fr/s8/product/playshoes-chaussettes-thermiques-ours-polaire-t-8692-bleu-clair-8692-collants-24400027) — CHF 5,20 — nouveau plus bas
-95. [PanzerGlass SAFE by PG Cam Gold iPhone 16 6.1/6.7 1 pcs, Apple iPhone 16, Apple iPhone 16 Plus](https://www.galaxus.ch/fr/s1/product/panzerglass-safe-by-pg-cam-gold-iphone-16-6167-1-pcs-apple-iphone-16-apple-iphone-16-plus-telephone--47808483) — CHF 3,60 — nouveau plus bas
-96. [Purelink PureTools 2x4 HDMI 2.1 Splitter - 48Gbps mit Scaler und Audio De-Embedding](https://www.galaxus.ch/fr/s1/product/purelink-puretools-2x4-hdmi-21-splitter-48gbps-mit-scaler-und-audio-de-embedding-hub-54202596) — CHF 129 — nouveau plus bas
-97. [Paw Patrol Gants de vélo S](https://www.galaxus.ch/fr/s3/product/paw-patrol-gants-de-velo-s-gants-de-velo-37390929) — CHF 5 — nouveau plus bas
-98. [Nintendo 0](https://www.galaxus.ch/fr/s10/product/nintendo-0-vaisselle-couverts-pour-enfants-47735977) — CHF 4 — nouveau plus bas
-99. [Esschert Design Fiche de jardin Abeille](https://www.galaxus.ch/fr/s4/product/esschert-design-fiche-de-jardin-abeille-decorations-dexterieur-49464929) — CHF 2,30 — nouveau plus bas
-100. [Reely Carré en PVC](https://www.galaxus.ch/fr/s5/product/reely-carre-en-pvc-modelisation-outils-accessoires-8432160) — CHF 2,60 — nouveau plus bas
+62. [Autel EVO Lite 640T Gimbal Cover](https://www.galaxus.ch/fr/s1/product/autel-evo-lite-640t-gimbal-cover-drone-accessoires-60381038) — CHF 2,70 — nouveau plus bas
+63. [Epson WLAN Modul UB-R05](https://www.galaxus.ch/fr/s1/product/epson-wlan-modul-ub-r05-imprimante-accessoires-16243308) — CHF 32 — nouveau plus bas
+64. [Institut Esthederm Cryo Modelant Mask 20g 20 g](https://www.galaxus.ch/fr/s6/product/institut-esthederm-cryo-modelant-mask-20g-20-g-masque-pour-le-visage-48306316) — CHF 16,50 — nouveau plus bas
+65. [Celsa Modification du câble](https://www.galaxus.ch/fr/s1/product/celsa-modification-du-cable-transformateur-40861138) — CHF 15,50 — nouveau plus bas
+66. [DJI AUTEL Battery Charging Hub pour contrôleur intelligent SE](https://www.galaxus.ch/fr/s1/product/dji-autel-battery-charging-hub-pour-controleur-intelligent-se-drone-accessoires-49449374) — CHF 14,50 — nouveau plus bas
+67. [GreenCell Batterie d'ordinateur portable pour Lenovo ThinkPad E480 E485 E490 - 4100 mAh 3 cabines, 4100 mAh](https://www.galaxus.ch/fr/s1/product/greencell-batterie-dordinateur-portable-pour-lenovo-thinkpad-e480-e485-e490-4100-mah-3-cabines-4100--40246910) — CHF 7,40 — nouveau plus bas
+68. [Godox Adaptateur d'alimentation Pour VL200 Godox](https://www.galaxus.ch/fr/s1/product/godox-adaptateur-dalimentation-pour-vl200-godox-flash-22460849) — CHF 7,40 — nouveau plus bas
+69. [Caruba Panasonic DMW DCC12 décodage complet batterie factice (câble à ressort)](https://www.galaxus.ch/fr/s1/product/caruba-panasonic-dmw-dcc12-decodage-complet-batterie-factice-cable-a-ressort-alimentation-pour-appar-22735636) — CHF 7 — nouveau plus bas
+70. [Apogee 1m USB-A cable Quartet Duet ONE for Quartet, Duet Cordes](https://www.galaxus.ch/fr/s1/product/apogee-1m-usb-a-cable-quartet-duet-one-for-quartet-duet-cordes-enregistrement-accessoires-21255075) — CHF 5,70 — nouveau plus bas
+71. [Delock USB mini-A - USB-A, coudé, OTG 0.50 m, USB 2.0](https://www.galaxus.ch/fr/s1/product/delock-usb-mini-a-usb-a-coude-otg-050-m-usb-20-cable-usb-11781439) — CHF 2,70 — nouveau plus bas
+72. [Klingspor PS 19 EK - Disques 115 mm 40](https://www.galaxus.ch/fr/s4/product/klingspor-ps-19-ek-disques-115-mm-40-abrasifs-36990932) — CHF 5,20 — nouveau plus bas
+73. [Chalice La dernière barrière Allemand, 2014, Reshad Feild, Robert Cathomas](https://www.galaxus.ch/fr/s18/product/la-derniere-barriere-allemand-2014-reshad-feild-robert-cathomas-biographies-7467715) — CHF 4,10 — nouveau plus bas
+74. [Chalice Wissen, dass wir geliebt sind Allemand, Jochen Eggert, Reshad Feild, 2014](https://www.galaxus.ch/fr/s18/product/wissen-dass-wir-geliebt-sind-allemand-jochen-eggert-reshad-feild-2014-fiction-8983847) — CHF 4 — nouveau plus bas
+75. [Vds Autocollant de voiture Tesla "I bought this before Elon went crazy" (Je l'ai acheté avant qu'Elon 1 Autocollants](https://www.galaxus.ch/fr/s12/product/vds-autocollant-de-voiture-tesla-i-bought-this-before-elon-went-crazy-je-lai-achete-avant-quelon-1-a-54063424) — CHF 3,70 — nouveau plus bas
+76. [Triton RAX-MS-X36-X1 - Poignée de porte pour rack](https://www.galaxus.ch/fr/s1/product/triton-rax-ms-x36-x1-poignee-de-porte-pour-rack-armoire-serveur-accessoires-15720883) — CHF 3,70 — nouveau plus bas
+77. [Westend Wem gehört Deutschland? Allemand, Jens Berger, 2024](https://www.galaxus.ch/fr/s18/product/wem-gehoert-deutschland-allemand-jens-berger-2024-ouvrages-specialises-46015493) — CHF 3,30 — nouveau plus bas
+78. [Xonox Home Accessoires](https://www.galaxus.ch/fr/s14/product/xonox-home-accessoires-boite-de-rangement-20926501) — CHF 3 — nouveau plus bas
+79. [Ursus Carton photo 300 g/m2 300 g/m²](https://www.galaxus.ch/fr/s12/product/ursus-carton-photo-300-gm2-300-gm-papier-a-bricolage-6407700) — CHF 1,10 — nouveau plus bas
+80. [Magni Pince de serrage DIN6499B ER25 10mm FORTIS](https://www.galaxus.ch/fr/s4/product/magni-pince-de-serrage-din6499b-er25-10mm-fortis-machine-accessoires-31196103) — CHF 2,70 — nouveau plus bas
+81. [Zeller Present set de table, plastique, gris 1 pcs, 45 x 30 cm](https://www.galaxus.ch/fr/s14/product/zeller-present-set-de-table-plastique-gris-1-pcs-45-x-30-cm-sets-de-table-42851346) — CHF 2,60 — nouveau plus bas
+82. [Eaton Borne de raccordement](https://www.galaxus.ch/fr/s4/product/eaton-borne-de-raccordement-solutions-pour-armoire-de-distribution-36757081) — CHF 2,40 — nouveau plus bas
+83. [Sunmi Base-Sunmi M2 POS charging station](https://www.galaxus.ch/fr/s1/product/sunmi-base-sunmi-m2-pos-charging-station-chargeur-de-secours-21101555) — CHF 2,10 — nouveau plus bas
+84. [Eucerin SUN FLU HY P MI50+ SPF 50+, 50 ml](https://www.galaxus.ch/fr/s6/product/eucerin-sun-flu-hy-p-mi50-spf-50-50-ml-creme-solaire-56746911) — CHF 9,50 — nouveau plus bas
+85. [Weber Bâche de protection](https://www.galaxus.ch/fr/s4/product/weber-bache-de-protection-housse-pour-barbecue-3497182) — CHF 30,60 — nouveau plus bas
+86. [Screenguard SpaceCase Xiaomi Redmi 14C](https://www.galaxus.ch/fr/s1/product/screenguard-spacecase-xiaomi-redmi-14c-coque-pour-telephone-portable-53142958) — CHF 1,70 — nouveau plus bas
+87. [National Geographic Life Intermediate Student's Book Split B with App Code Anglais, Helen Stephenson, John Hughes, Paul Dummett, 2018](https://www.galaxus.ch/fr/s18/product/national-geographic-life-intermediate-students-book-split-b-with-app-code-anglais-helen-stephenson-j-17344259) — CHF 1,70 — nouveau plus bas
+88. [Busch-Jaeger Cadre](https://www.galaxus.ch/fr/s4/product/busch-jaeger-cadre-accessoires-gamme-dinterrupteurs-20022722) — CHF 1,70 — nouveau plus bas
+89. [Cellfast Filtre de connexion Fap Raccord de tuyau](https://www.galaxus.ch/fr/s4/product/cellfast-filtre-de-connexion-fap-raccord-de-tuyau-raccord-de-tuyau-connecteur-de-tuyau-35621215) — CHF 1,60 — nouveau plus bas
+90. [Tools-2-Groom Tang de clous Petit](https://www.galaxus.ch/fr/s6/product/tools-2-groom-tang-de-clous-petit-appareil-de-soin-des-ongles-39146089) — CHF 1,50 — nouveau plus bas
+91. [Halemeier Distributeur LED 6x MP 24 V - LED 24 V](https://www.galaxus.ch/fr/s14/product/halemeier-distributeur-led-6x-mp-24-v-led-24-v-eclairage-accessoires-10862134) — CHF 1,30 — nouveau plus bas
+92. [Only ONLEMILY STRETCH Jeans taille haute W27/L32](https://www.galaxus.ch/fr/s8/product/only-onlemily-stretch-jeans-taille-haute-w27l32-jeans-37068097) — CHF 9 — nouveau plus bas
+93. [Melvita Argan Bio-Active Sérum expert rides & éclat 30 ml](https://www.galaxus.ch/fr/s6/product/melvita-argan-bio-active-serum-expert-rides-eclat-30-ml-serum-visage-44979121) — CHF 13,40 — nouveau plus bas
+94. [Delock Presse-étoupe 90° coudé PG11 gris](https://www.galaxus.ch/fr/s4/product/delock-presse-etoupe-90-coude-pg11-gris-connecteur-pour-cable-17240136) — CHF 2,30 — nouveau plus bas
+95. [Crowell Lycra Jr Badekappe Schwarz](https://www.galaxus.ch/fr/s3/product/crowell-lycra-jr-badekappe-schwarz-bonnet-de-bain-35730640) — CHF 3,18 — nouveau plus bas
+96. [Ferm Living Siège de remplacement Desert Lounge](https://www.galaxus.ch/fr/s14/product/ferm-living-siege-de-remplacement-desert-lounge-fauteuil-45377088) — CHF 19 — nouveau plus bas
+97. [Supair Stockkapsel mit Stahleinlage 18/19mm schwarz Btl](https://www.galaxus.ch/fr/s6/product/supair-stockkapsel-mit-stahleinlage-1819mm-schwarz-btl-materiel-de-soins-a-domicile-pour-personnes-a-60996641) — CHF 3 — nouveau plus bas
+98. [Delock Câble réseau RJ45 Cat.6 UTP Ultra Slim 1 m gris avec UTP, CAT6, 1 m](https://www.galaxus.ch/fr/s1/product/delock-cable-reseau-rj45-cat6-utp-ultra-slim-1-m-gris-avec-utp-cat6-1-m-cable-reseau-47088609) — CHF 3,30 — nouveau plus bas
+99. [hobbytime Brillant-Glitter fine, 4,5 g marine](https://www.galaxus.ch/fr/s5/product/hobbytime-brillant-glitter-fine-45-g-marine-autres-fournitures-12449216) — CHF 1,50 — nouveau plus bas
+100. [Teaology Tea Gloss Tinted Volume Lip Treatment Berry Kit de soin des lèvres, 10 ml](https://www.galaxus.ch/fr/s6/product/teaology-tea-gloss-tinted-volume-lip-treatment-berry-kit-de-soin-des-levres-10-ml-soin-pour-les-levr-60727725) — CHF 6 — nouveau plus bas
 
 ## Clés USB
 
-71 produits distincts au minimum parmi 1827 prix vérifiés.
+69 produits distincts au minimum parmi 1813 prix vérifiés.
 Pagination complète de la source confirmée.
 
 1. [MediaRange MEMORY DRIVE FLASH USB2 8GB/MR920 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb2-8gbmr920-8-go-usb-a-cle-usb-68627460) — CHF 9,25 — nouveau plus bas
@@ -225,70 +225,68 @@ Pagination complète de la source confirmée.
 4. [Mozo Skórzany Organizer Na Piloty Mozos Rch-1 Biały](https://www.galaxus.ch/fr/s1/product/mozo-skrzany-organizer-na-piloty-mozos-rch-1-biay-cle-usb-33424589) — CHF 18,90 — nouveau plus bas
 5. [Hiksemi Hikvision Pendrive - 32GB USB3.0, ROTARY M200S, Ezüst-Fekete 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-32gb-usb30-rotary-m200s-ezuest-fekete-32-go-usb-a-cle-usb-63914138) — CHF 19,90 — nouveau plus bas
 6. [Lexar JUMPDRIVE S80 2X32GB USB 3.1 PENDRIVE RETRATTILE 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/lexar-jumpdrive-s80-2x32gb-usb-31-pendrive-retrattile-32-go-usb-a-cle-usb-68458862) — CHF 38,90 — nouveau plus bas
-7. [Hiksemi Hikvision Pendrive - 32GB USB2.0, RNB, M200R, Fekete 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-32gb-usb20-rnb-m200r-fekete-32-go-usb-a-cle-usb-63914165) — CHF 17,90 — nouveau plus bas
-8. [Bioworld NONAME FoundMi 2.0 Accessoires Flash 20 Go, USB-A](https://www.galaxus.ch/fr/s1/product/bioworld-noname-foundmi-20-accessoires-flash-20-go-usb-a-cle-usb-39933879) — CHF 26,90 — nouveau plus bas
-9. [Hiksemi Clé USB 32 GB Série M210S USB 3.2 Gen 1 30-120MB/s 15-45MB/s Coloris sil 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-32-gb-serie-m210s-usb-32-gen-1-30-120mbs-15-45mbs-coloris-sil-32-go-usb-a-cle-usb-61012828) — CHF 19,90 — nouveau plus bas
-10. [Hiksemi Hikvision Pendrive - BLADE, 64GB, USB3.2, Ezüst 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-blade-64gb-usb32-ezuest-64-go-usb-a-cle-usb-41223868) — CHF 26,90 — nouveau plus bas
-11. [Mahle Clé USB compatible X35+. necessite le câble GCU](https://www.galaxus.ch/fr/s1/product/mahle-cle-usb-compatible-x35-necessite-le-cable-gcu-cle-usb-45530575) — CHF 20,90 — nouveau plus bas
-12. [Hamlet XCU3A-MF30 USB-A](https://www.galaxus.ch/fr/s1/product/hamlet-xcu3a-mf30-usb-a-cle-usb-54945755) — CHF 20,90 — nouveau plus bas
-13. [Hiksemi Hikvision Pendrive - BLADE, 32GB, USB3.2,Ezüst 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-blade-32gb-usb32ezuest-32-go-usb-a-cle-usb-41223928) — CHF 20,90 — nouveau plus bas
-14. [Montiss Pamięć USB 3.2 128GB UME3 MT184-128 MONTIS by Goodram 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/montiss-pami-usb-32-128gb-ume3-mt184-128-montis-by-goodram-128-go-usb-a-cle-usb-61797163) — CHF 17,90 — nouveau plus bas
-15. [Hiksemi CLE USB 64 Go Série E327C U3 Dual USB 3.2 et USB Type C Coloris Silver 64 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-64-go-serie-e327c-u3-dual-usb-32-et-usb-type-c-coloris-silver-64-go-usb-a-usb-c-cle--44432230) — CHF 18,90 — nouveau plus bas
-16. [Integral Flash drive SLIDE INFD32GBSLDBL Blue 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/flash-drive-slide-infd32gbsldbl-blue-32-go-usb-a-cle-usb-54239765) — CHF 10,50 — nouveau plus bas
-17. [Integral INFD64GB360CSEC3.2 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/infd64gb360csec32-64-go-usb-a-cle-usb-64919716) — CHF 36,90 — nouveau plus bas
-18. [Integral INFD128GB360CSEC3.2 128 Go, USB-C](https://www.galaxus.ch/fr/s1/product/infd128gb360csec32-128-go-usb-c-cle-usb-62474855) — CHF 50,90 — nouveau plus bas
-19. [PowerGuard 2-Pack USB LED Stick USB-A](https://www.galaxus.ch/fr/s1/product/powerguard-2-pack-usb-led-stick-usb-a-cle-usb-24961847) — CHF 6,25 — nouveau plus bas
-20. [Transcend JetFlash 380G 32GB Dual USB 2.0 Flash Drive + micro-USB Gold 32 Go, Micro USB-B, USB-A](https://www.galaxus.ch/fr/s1/product/transcend-jetflash-380g-32gb-dual-usb-20-flash-drive-micro-usb-gold-32-go-micro-usb-b-usb-a-cle-usb-10342270) — CHF 18,90 — nouveau plus bas
-21. [Tribe USB stick 8 GB Superman - Original DC Comics 2.0 Flash Drive, FD031401 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-usb-stick-8-gb-superman-original-dc-comics-20-flash-drive-fd031401-8-go-usb-a-cle-usb-59440630) — CHF 18,90 — nouveau plus bas
-22. [MediaRange MEMORY DRIVE FLASH USB3.2/128GB MR1902 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb32128gb-mr1902-128-go-usb-a-cle-usb-68627458) — CHF 32,90 — nouveau plus bas
-23. [Forcell Memory cards F-DATA pendrive Metal 32GB USB3.2 Gen 1 (USB A) silver 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/forcell-memory-cards-f-data-pendrive-metal-32gb-usb32-gen-1-usb-a-silver-32-go-usb-a-cle-usb-59944293) — CHF 12,60 — nouveau plus bas
-24. [Hiksemi Flash Disk 4GB Classic, USB 2.0 (R:10-20 MB/s, W:3-10 MB/s) 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-flash-disk-4gb-classic-usb-20-r10-20-mbs-w3-10-mbs-4-go-usb-a-cle-usb-46367210) — CHF 9,05 — nouveau plus bas
-25. [MediaRange Clé USB MR935, USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1), argentée 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/mediarange-cle-usb-mr935-usb-type-a-usb-type-c-32-gen-1-31-gen-1-argentee-16-go-usb-a-usb-c-cle-usb-40181270) — CHF 10,20 — nouveau plus bas
-26. [Tribe Bâton de balai Harry Potter Hermione 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-baton-de-balai-harry-potter-hermione-16-go-usb-a-cle-usb-39930937) — CHF 21,90 — nouveau plus bas
-27. [Tribe Clé USB 8 Go Flash - Original DC Comics 2.0 Flash Drive, FD031406 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-cle-usb-8-go-flash-original-dc-comics-20-flash-drive-fd031406-8-go-usb-a-cle-usb-53552087) — CHF 19,70 — nouveau plus bas
-28. [Ridata HJ3 Ezdrive 16GB Silver USB3.0 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/ridata-hj3-ezdrive-16gb-silver-usb30-16-go-usb-a-cle-usb-60425532) — CHF 17,90 — nouveau plus bas
-29. [Tribe Marvel Hulk 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-marvel-hulk-16-go-usb-a-cle-usb-6386680) — CHF 19,90 — nouveau plus bas
-30. [Tribe Clé USB Looney Tunes 16 Go Daffy 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-cle-usb-looney-tunes-16-go-daffy-16-go-usb-a-cle-usb-39931866) — CHF 21,90 — nouveau plus bas
-31. [Hikvision Hiksemi, clé USB, 8Go, 2.0, ultra-mince, Aus 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hikvision-hiksemi-cle-usb-8go-20-ultra-mince-aus-8-go-usb-a-cle-usb-49452572) — CHF 8,30 — nouveau plus bas
-32. [Bodino Carte couleur avec clé USB 8 Go, Electronic Spaghetti 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-electronic-spaghetti-8-go-cle-usb-358173) — CHF 26,90 — nouveau plus bas
-33. [Bodino Carte couleur avec clé USB 8 Go, Le Cirque 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-le-cirque-8-go-cle-usb-358177) — CHF 26,90 — nouveau plus bas
-34. [Bodino Carte couleur avec clé USB 8 Go, Circl Ogical Breakdown 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-circl-ogical-breakdown-8-go-cle-usb-358176) — CHF 26,90 — nouveau plus bas
-35. [Bodino Carte couleur avec clé USB 8 Go, Scotch on the rocks 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-scotch-on-the-rocks-8-go-cle-usb-358174) — CHF 26,90 — nouveau plus bas
-36. [Integral INFD512GB360SEC3.0 512 Go, USB-A](https://www.galaxus.ch/fr/s1/product/infd512gb360sec30-512-go-usb-a-cle-usb-58250998) — CHF 139 — nouveau plus bas
-37. [Hoco U1 64GB Noir 64 Go](https://www.galaxus.ch/fr/s1/product/hoco-u1-64gb-noir-64-go-cle-usb-33345381) — CHF 30,90 — nouveau plus bas
-38. [Mozo Organisateur en cuir Pour poignées de télécommande Stand Premium](https://www.galaxus.ch/fr/s1/product/mozo-organisateur-en-cuir-pour-poignees-de-telecommande-stand-premium-cle-usb-36909846) — CHF 15,90 — nouveau plus bas
-39. [Hiksemi Flash Disk 128GB Cap, USB 3.2 (R:30-120 MB/s, W:15-45 MB/s) 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-flash-disk-128gb-cap-usb-32-r30-120-mbs-w15-45-mbs-128-go-usb-a-cle-usb-41223904) — CHF 15,90 — nouveau plus bas
-40. [Adata USB-A 2.0 FlashDrive C008, 64Gb 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/adata-usb-a-20-flashdrive-c008-64gb-64-go-usb-a-cle-usb-70241127) — CHF 11,20 — nouveau plus bas
-41. [Integral CLE USB 32GB USB-C 3.2 GEN1 DRIVE ROSE 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-32gb-usb-c-32-gen1-drive-rose-32-go-usb-c-cle-usb-66254224) — CHF 16,90 — nouveau plus bas
-42. [Disk2go Clé USB prime 64 Go 30006707 USB 3.0 double pack 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/disk2go-cle-usb-prime-64-go-30006707-usb-30-double-pack-64-go-usb-a-cle-usb-12924833) — CHF 13,90 — nouveau plus bas
-43. [Dahua Pendrive - 32GB USB2.0 (U116 R25-W10 MB/s FAT32) 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-32gb-usb20-u116-r25-w10-mbs-fat32-32-go-usb-a-cle-usb-36739152) — CHF 11,40 — nouveau plus bas
-44. [Tribe Game of Thrones USB 16GB Arya 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-game-of-thrones-usb-16gb-arya-16-go-usb-a-cle-usb-10409421) — CHF 8,75 — nouveau plus bas
-45. [Dahua Pendrive - 32GB USB2.0 (U176 R25-W10 MB/s FAT32) 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-32gb-usb20-u176-r25-w10-mbs-fat32-32-go-usb-a-cle-usb-37800494) — CHF 10,50 — nouveau plus bas
-46. [Netac Lecteur flash U505 USB3.0 32 Go, boîtier ABS+métal 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/netac-lecteur-flash-u505-usb30-32-go-boitier-absmetal-32-go-usb-a-cle-usb-20541927) — CHF 9,55 — nouveau plus bas
-47. [DJTechTools Chroma Drive USB - 256GB - Chrome 256 Go, USB-A](https://www.galaxus.ch/fr/s1/product/djtechtools-chroma-drive-usb-256gb-chrome-256-go-usb-a-cle-usb-62428231) — CHF 72,60 — nouveau plus bas
-48. [Hama Rotate USB 3.0 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hama-rotate-usb-30-128-go-usb-a-cle-usb-15800665) — CHF 7,90 — nouveau plus bas
-49. [Ludattica Puzzle Atelier Picasso 8+](https://www.galaxus.ch/fr/s1/product/ludattica-puzzle-atelier-picasso-8-cle-usb-39925906) — CHF 22,70 — nouveau plus bas
-50. [Intenso Micro Line 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/intenso-micro-line-64-go-usb-a-cle-usb-66953749) — CHF 45,90 — nouveau plus bas
-51. [Hiksemi Hikvision Pendrive - 4GB USB2.0, ROTARY, M200S, Ezüst-Fekete 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-4gb-usb20-rotary-m200s-ezuest-fekete-4-go-usb-a-cle-usb-63914077) — CHF 10,20 — nouveau plus bas
-52. [Forcell Memory cards F-DATA pendrive Metal Duo 16GB USB3.2 Gen 1 (USB A / Type C) silver 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/forcell-memory-cards-f-data-pendrive-metal-duo-16gb-usb32-gen-1-usb-a-type-c-silver-16-go-usb-a-usb--59944284) — CHF 10,60 — nouveau plus bas
-53. [MyMedia Clé USB 2.0 16 Go MyUSB Drive 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mymedia-cle-usb-20-16-go-myusb-drive-16-go-usb-a-cle-usb-25210651) — CHF 5,30 — nouveau plus bas
-54. [Lexon C-Pen 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-32-go-usb-c-cle-usb-16668523) — CHF 26,70 — nouveau plus bas
-55. [Orbitkey USB-C keyring flash drive, 64GB 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/orbitkey-usb-c-keyring-flash-drive-64gb-64-go-usb-c-cle-usb-54012722) — CHF 32,90 — nouveau plus bas
-56. [Orbitkey USB-Stick 3.0 32GB gris 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/orbitkey-usb-stick-30-32gb-gris-32-go-usb-a-cle-usb-25217574) — CHF 33,90 — nouveau plus bas
-57. [IMRO Clé USB 3.0 CHEETAH/32GB Chrome Argent 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/imro-cle-usb-30-cheetah32gb-chrome-argent-32-go-usb-a-cle-usb-32028524) — CHF 8,95 — nouveau plus bas
-58. [Dahua Pendrive Technology U126-30, 64 Go (USB-U126-30-64GB) 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-technology-u126-30-64-go-usb-u126-30-64gb-64-go-usb-a-cle-usb-49028381) — CHF 12,80 — nouveau plus bas
-59. [Patriot USB 512GB iLuxe Stick USB-C + Lightning 3.2 PAT 512 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/patriot-usb-512gb-iluxe-stick-usb-c-lightning-32-pat-512-go-usb-a-usb-c-cle-usb-54726668) — CHF 80,90 — nouveau plus bas
-60. [Adata USB 64GB UC300 bkgn 3.2 Interface USB Type C USB 3.2 Gen 1 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/adata-usb-64gb-uc300-bkgn-32-interface-usb-type-c-usb-32-gen-1-64-go-usb-c-cle-usb-22925487) — CHF 7,30 — nouveau plus bas
-61. [Integral 64GB USB3.0 DRIVE NEON PINK UP TO R-100 W-30 MBS 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/64gb-usb30-drive-neon-pink-up-to-r-100-w-30-mbs-64-go-usb-a-cle-usb-33517965) — CHF 14,70 — plus bas égalé
-62. [Lexon C-Pen Długopis z pendrivem USB-C 32GB żółty/yellow LS101YF 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-dugopis-z-pendrivem-usb-c-32gb-tyyellow-ls101yf-32-go-usb-c-cle-usb-47440817) — CHF 17,90 — plus bas égalé
-63. [Platinet Pendrive K-DEPO, 128 Go (PMFMK128) 128 Go](https://www.galaxus.ch/fr/s1/product/platinet-pendrive-k-depo-128-go-pmfmk128-128-go-cle-usb-21106452) — CHF 15,90 — plus bas égalé
-64. [Delkin PocketFlash USB 3.0 64GB R:120MB/s W:15MB/s 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/delkin-pocketflash-usb-30-64gb-r120mbs-w15mbs-64-go-usb-a-cle-usb-22877634) — CHF 19,70 — plus bas égalé
-65. [Delkin PocketFlash USB 3.0 128GB R:120MB/s W:25MB/s 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/delkin-pocketflash-usb-30-128gb-r120mbs-w25mbs-128-go-usb-a-cle-usb-22877635) — CHF 33,70 — plus bas égalé
-66. [Apacer AH155, 128 Go Pendrive (AP128GAH155U-1) 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/apacer-ah155-128-go-pendrive-ap128gah155u-1-128-go-usb-a-cle-usb-35533322) — CHF 25,90 — plus bas égalé
-67. [Hiksemi CLE USB 16 Go Série E307C U3 Dual USB 3.2 et USB Type C Coloris Grey 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-16-go-serie-e307c-u3-dual-usb-32-et-usb-type-c-coloris-grey-16-go-usb-a-usb-c-cle-us-44737000) — CHF 11,90 — plus bas égalé
-68. [Integral USB-STICK SZ INFD32GB360CSEC3.2 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/usb-stick-sz-infd32gb360csec32-32-go-usb-a-cle-usb-65858386) — CHF 31,70 — plus bas égalé
-69. [Integral CLE USB 64GB USB-C 3.2 GEN1 DRIVE BLEUE 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-64gb-usb-c-32-gen1-drive-bleue-64-go-usb-c-cle-usb-66254228) — CHF 24,90 — plus bas égalé
-70. [Integral CLE USB 64GB USB-C 3.2 GEN1 DRIVE ROSE 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-64gb-usb-c-32-gen1-drive-rose-64-go-usb-c-cle-usb-66254215) — CHF 25,90 — plus bas égalé
-71. [Integral CLE USB 32GB USB-C 3.2 GEN1 DRIVE BLEUE 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-32gb-usb-c-32-gen1-drive-bleue-32-go-usb-c-cle-usb-66254216) — CHF 19,90 — plus bas égalé
+7. [Bioworld NONAME FoundMi 2.0 Accessoires Flash 20 Go, USB-A](https://www.galaxus.ch/fr/s1/product/bioworld-noname-foundmi-20-accessoires-flash-20-go-usb-a-cle-usb-39933879) — CHF 26,90 — nouveau plus bas
+8. [Hiksemi Clé USB 32 GB Série M210S USB 3.2 Gen 1 30-120MB/s 15-45MB/s Coloris sil 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-32-gb-serie-m210s-usb-32-gen-1-30-120mbs-15-45mbs-coloris-sil-32-go-usb-a-cle-usb-61012828) — CHF 19,90 — nouveau plus bas
+9. [Hiksemi Hikvision Pendrive - BLADE, 64GB, USB3.2, Ezüst 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-blade-64gb-usb32-ezuest-64-go-usb-a-cle-usb-41223868) — CHF 26,90 — nouveau plus bas
+10. [Mahle Clé USB compatible X35+. necessite le câble GCU](https://www.galaxus.ch/fr/s1/product/mahle-cle-usb-compatible-x35-necessite-le-cable-gcu-cle-usb-45530575) — CHF 20,90 — nouveau plus bas
+11. [Hamlet XCU3A-MF30 USB-A](https://www.galaxus.ch/fr/s1/product/hamlet-xcu3a-mf30-usb-a-cle-usb-54945755) — CHF 20,90 — nouveau plus bas
+12. [Hiksemi Hikvision Pendrive - BLADE, 32GB, USB3.2,Ezüst 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-blade-32gb-usb32ezuest-32-go-usb-a-cle-usb-41223928) — CHF 20,90 — nouveau plus bas
+13. [Montiss Pamięć USB 3.2 128GB UME3 MT184-128 MONTIS by Goodram 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/montiss-pami-usb-32-128gb-ume3-mt184-128-montis-by-goodram-128-go-usb-a-cle-usb-61797163) — CHF 17,90 — nouveau plus bas
+14. [Hiksemi CLE USB 64 Go Série E327C U3 Dual USB 3.2 et USB Type C Coloris Silver 64 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-64-go-serie-e327c-u3-dual-usb-32-et-usb-type-c-coloris-silver-64-go-usb-a-usb-c-cle--44432230) — CHF 18,90 — nouveau plus bas
+15. [Integral Flash drive SLIDE INFD32GBSLDBL Blue 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/flash-drive-slide-infd32gbsldbl-blue-32-go-usb-a-cle-usb-54239765) — CHF 10,50 — nouveau plus bas
+16. [Integral INFD64GB360CSEC3.2 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/infd64gb360csec32-64-go-usb-a-cle-usb-64919716) — CHF 36,90 — nouveau plus bas
+17. [Integral INFD128GB360CSEC3.2 128 Go, USB-C](https://www.galaxus.ch/fr/s1/product/infd128gb360csec32-128-go-usb-c-cle-usb-62474855) — CHF 50,90 — nouveau plus bas
+18. [PowerGuard 2-Pack USB LED Stick USB-A](https://www.galaxus.ch/fr/s1/product/powerguard-2-pack-usb-led-stick-usb-a-cle-usb-24961847) — CHF 6,25 — nouveau plus bas
+19. [Transcend JetFlash 380G 32GB Dual USB 2.0 Flash Drive + micro-USB Gold 32 Go, Micro USB-B, USB-A](https://www.galaxus.ch/fr/s1/product/transcend-jetflash-380g-32gb-dual-usb-20-flash-drive-micro-usb-gold-32-go-micro-usb-b-usb-a-cle-usb-10342270) — CHF 18,90 — nouveau plus bas
+20. [Tribe USB stick 8 GB Superman - Original DC Comics 2.0 Flash Drive, FD031401 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-usb-stick-8-gb-superman-original-dc-comics-20-flash-drive-fd031401-8-go-usb-a-cle-usb-59440630) — CHF 18,90 — nouveau plus bas
+21. [MediaRange MEMORY DRIVE FLASH USB3.2/128GB MR1902 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mediarange-memory-drive-flash-usb32128gb-mr1902-128-go-usb-a-cle-usb-68627458) — CHF 32,90 — nouveau plus bas
+22. [Forcell Memory cards F-DATA pendrive Metal 32GB USB3.2 Gen 1 (USB A) silver 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/forcell-memory-cards-f-data-pendrive-metal-32gb-usb32-gen-1-usb-a-silver-32-go-usb-a-cle-usb-59944293) — CHF 12,60 — nouveau plus bas
+23. [Hiksemi Flash Disk 4GB Classic, USB 2.0 (R:10-20 MB/s, W:3-10 MB/s) 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-flash-disk-4gb-classic-usb-20-r10-20-mbs-w3-10-mbs-4-go-usb-a-cle-usb-46367210) — CHF 9,05 — nouveau plus bas
+24. [MediaRange Clé USB MR935, USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1), argentée 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/mediarange-cle-usb-mr935-usb-type-a-usb-type-c-32-gen-1-31-gen-1-argentee-16-go-usb-a-usb-c-cle-usb-40181270) — CHF 10,20 — nouveau plus bas
+25. [Tribe Bâton de balai Harry Potter Hermione 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-baton-de-balai-harry-potter-hermione-16-go-usb-a-cle-usb-39930937) — CHF 21,90 — nouveau plus bas
+26. [Tribe Clé USB 8 Go Flash - Original DC Comics 2.0 Flash Drive, FD031406 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-cle-usb-8-go-flash-original-dc-comics-20-flash-drive-fd031406-8-go-usb-a-cle-usb-53552087) — CHF 19,70 — nouveau plus bas
+27. [Ridata HJ3 Ezdrive 16GB Silver USB3.0 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/ridata-hj3-ezdrive-16gb-silver-usb30-16-go-usb-a-cle-usb-60425532) — CHF 17,90 — nouveau plus bas
+28. [Tribe Marvel Hulk 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-marvel-hulk-16-go-usb-a-cle-usb-6386680) — CHF 19,90 — nouveau plus bas
+29. [Tribe Clé USB Looney Tunes 16 Go Daffy 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-cle-usb-looney-tunes-16-go-daffy-16-go-usb-a-cle-usb-39931866) — CHF 21,90 — nouveau plus bas
+30. [Hikvision Hiksemi, clé USB, 8Go, 2.0, ultra-mince, Aus 8 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hikvision-hiksemi-cle-usb-8go-20-ultra-mince-aus-8-go-usb-a-cle-usb-49452572) — CHF 8,30 — nouveau plus bas
+31. [Bodino Carte couleur avec clé USB 8 Go, Electronic Spaghetti 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-electronic-spaghetti-8-go-cle-usb-358173) — CHF 26,90 — nouveau plus bas
+32. [Bodino Carte couleur avec clé USB 8 Go, Le Cirque 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-le-cirque-8-go-cle-usb-358177) — CHF 26,90 — nouveau plus bas
+33. [Bodino Carte couleur avec clé USB 8 Go, Circl Ogical Breakdown 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-circl-ogical-breakdown-8-go-cle-usb-358176) — CHF 26,90 — nouveau plus bas
+34. [Bodino Carte couleur avec clé USB 8 Go, Scotch on the rocks 8 Go](https://www.galaxus.ch/fr/s1/product/bodino-carte-couleur-avec-cle-usb-8-go-scotch-on-the-rocks-8-go-cle-usb-358174) — CHF 26,90 — nouveau plus bas
+35. [Integral INFD512GB360SEC3.0 512 Go, USB-A](https://www.galaxus.ch/fr/s1/product/infd512gb360sec30-512-go-usb-a-cle-usb-58250998) — CHF 139 — nouveau plus bas
+36. [Hoco U1 64GB Noir 64 Go](https://www.galaxus.ch/fr/s1/product/hoco-u1-64gb-noir-64-go-cle-usb-33345381) — CHF 30,90 — nouveau plus bas
+37. [Mozo Organisateur en cuir Pour poignées de télécommande Stand Premium](https://www.galaxus.ch/fr/s1/product/mozo-organisateur-en-cuir-pour-poignees-de-telecommande-stand-premium-cle-usb-36909846) — CHF 15,90 — nouveau plus bas
+38. [Hiksemi Flash Disk 128GB Cap, USB 3.2 (R:30-120 MB/s, W:15-45 MB/s) 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-flash-disk-128gb-cap-usb-32-r30-120-mbs-w15-45-mbs-128-go-usb-a-cle-usb-41223904) — CHF 15,90 — nouveau plus bas
+39. [Adata USB-A 2.0 FlashDrive C008, 64Gb 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/adata-usb-a-20-flashdrive-c008-64gb-64-go-usb-a-cle-usb-70241127) — CHF 11,20 — nouveau plus bas
+40. [Integral CLE USB 32GB USB-C 3.2 GEN1 DRIVE ROSE 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-32gb-usb-c-32-gen1-drive-rose-32-go-usb-c-cle-usb-66254224) — CHF 16,90 — nouveau plus bas
+41. [Disk2go Clé USB prime 64 Go 30006707 USB 3.0 double pack 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/disk2go-cle-usb-prime-64-go-30006707-usb-30-double-pack-64-go-usb-a-cle-usb-12924833) — CHF 13,90 — nouveau plus bas
+42. [Dahua Pendrive - 32GB USB2.0 (U116 R25-W10 MB/s FAT32) 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-32gb-usb20-u116-r25-w10-mbs-fat32-32-go-usb-a-cle-usb-36739152) — CHF 11,40 — nouveau plus bas
+43. [Tribe Game of Thrones USB 16GB Arya 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/tribe-game-of-thrones-usb-16gb-arya-16-go-usb-a-cle-usb-10409421) — CHF 8,75 — nouveau plus bas
+44. [Dahua Pendrive - 32GB USB2.0 (U176 R25-W10 MB/s FAT32) 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-32gb-usb20-u176-r25-w10-mbs-fat32-32-go-usb-a-cle-usb-37800494) — CHF 10,50 — nouveau plus bas
+45. [DJTechTools Chroma Drive USB - 256GB - Chrome 256 Go, USB-A](https://www.galaxus.ch/fr/s1/product/djtechtools-chroma-drive-usb-256gb-chrome-256-go-usb-a-cle-usb-62428231) — CHF 72,60 — nouveau plus bas
+46. [Hama Rotate USB 3.0 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hama-rotate-usb-30-128-go-usb-a-cle-usb-15800665) — CHF 7,90 — nouveau plus bas
+47. [Ludattica Puzzle Atelier Picasso 8+](https://www.galaxus.ch/fr/s1/product/ludattica-puzzle-atelier-picasso-8-cle-usb-39925906) — CHF 22,70 — nouveau plus bas
+48. [Intenso Micro Line 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/intenso-micro-line-64-go-usb-a-cle-usb-66953749) — CHF 45,90 — nouveau plus bas
+49. [Hiksemi Hikvision Pendrive - 4GB USB2.0, ROTARY, M200S, Ezüst-Fekete 4 Go, USB-A](https://www.galaxus.ch/fr/s1/product/hiksemi-hikvision-pendrive-4gb-usb20-rotary-m200s-ezuest-fekete-4-go-usb-a-cle-usb-63914077) — CHF 10,20 — nouveau plus bas
+50. [Forcell Memory cards F-DATA pendrive Metal Duo 16GB USB3.2 Gen 1 (USB A / Type C) silver 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/forcell-memory-cards-f-data-pendrive-metal-duo-16gb-usb32-gen-1-usb-a-type-c-silver-16-go-usb-a-usb--59944284) — CHF 10,60 — nouveau plus bas
+51. [MyMedia Clé USB 2.0 16 Go MyUSB Drive 16 Go, USB-A](https://www.galaxus.ch/fr/s1/product/mymedia-cle-usb-20-16-go-myusb-drive-16-go-usb-a-cle-usb-25210651) — CHF 5,30 — nouveau plus bas
+52. [Lexon C-Pen 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-32-go-usb-c-cle-usb-16668523) — CHF 26,70 — nouveau plus bas
+53. [Orbitkey USB-C keyring flash drive, 64GB 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/orbitkey-usb-c-keyring-flash-drive-64gb-64-go-usb-c-cle-usb-54012722) — CHF 32,90 — nouveau plus bas
+54. [Orbitkey USB-Stick 3.0 32GB gris 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/orbitkey-usb-stick-30-32gb-gris-32-go-usb-a-cle-usb-25217574) — CHF 33,90 — nouveau plus bas
+55. [IMRO Clé USB 3.0 CHEETAH/32GB Chrome Argent 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/imro-cle-usb-30-cheetah32gb-chrome-argent-32-go-usb-a-cle-usb-32028524) — CHF 8,95 — nouveau plus bas
+56. [Dahua Pendrive Technology U126-30, 64 Go (USB-U126-30-64GB) 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/dahua-pendrive-technology-u126-30-64-go-usb-u126-30-64gb-64-go-usb-a-cle-usb-49028381) — CHF 12,80 — nouveau plus bas
+57. [Patriot USB 512GB iLuxe Stick USB-C + Lightning 3.2 PAT 512 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/patriot-usb-512gb-iluxe-stick-usb-c-lightning-32-pat-512-go-usb-a-usb-c-cle-usb-54726668) — CHF 80,90 — nouveau plus bas
+58. [Adata USB 64GB UC300 bkgn 3.2 Interface USB Type C USB 3.2 Gen 1 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/adata-usb-64gb-uc300-bkgn-32-interface-usb-type-c-usb-32-gen-1-64-go-usb-c-cle-usb-22925487) — CHF 7,30 — nouveau plus bas
+59. [Integral 64GB USB3.0 DRIVE NEON PINK UP TO R-100 W-30 MBS 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/64gb-usb30-drive-neon-pink-up-to-r-100-w-30-mbs-64-go-usb-a-cle-usb-33517965) — CHF 14,70 — plus bas égalé
+60. [Lexon C-Pen Długopis z pendrivem USB-C 32GB żółty/yellow LS101YF 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/lexon-c-pen-dugopis-z-pendrivem-usb-c-32gb-tyyellow-ls101yf-32-go-usb-c-cle-usb-47440817) — CHF 17,90 — plus bas égalé
+61. [Platinet Pendrive K-DEPO, 128 Go (PMFMK128) 128 Go](https://www.galaxus.ch/fr/s1/product/platinet-pendrive-k-depo-128-go-pmfmk128-128-go-cle-usb-21106452) — CHF 15,90 — plus bas égalé
+62. [Delkin PocketFlash USB 3.0 64GB R:120MB/s W:15MB/s 64 Go, USB-A](https://www.galaxus.ch/fr/s1/product/delkin-pocketflash-usb-30-64gb-r120mbs-w15mbs-64-go-usb-a-cle-usb-22877634) — CHF 19,70 — plus bas égalé
+63. [Delkin PocketFlash USB 3.0 128GB R:120MB/s W:25MB/s 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/delkin-pocketflash-usb-30-128gb-r120mbs-w25mbs-128-go-usb-a-cle-usb-22877635) — CHF 33,70 — plus bas égalé
+64. [Apacer AH155, 128 Go Pendrive (AP128GAH155U-1) 128 Go, USB-A](https://www.galaxus.ch/fr/s1/product/apacer-ah155-128-go-pendrive-ap128gah155u-1-128-go-usb-a-cle-usb-35533322) — CHF 25,90 — plus bas égalé
+65. [Hiksemi CLE USB 16 Go Série E307C U3 Dual USB 3.2 et USB Type C Coloris Grey 16 Go, USB-A, USB-C](https://www.galaxus.ch/fr/s1/product/hiksemi-cle-usb-16-go-serie-e307c-u3-dual-usb-32-et-usb-type-c-coloris-grey-16-go-usb-a-usb-c-cle-us-44737000) — CHF 11,90 — plus bas égalé
+66. [Integral USB-STICK SZ INFD32GB360CSEC3.2 32 Go, USB-A](https://www.galaxus.ch/fr/s1/product/usb-stick-sz-infd32gb360csec32-32-go-usb-a-cle-usb-65858386) — CHF 31,70 — plus bas égalé
+67. [Integral CLE USB 64GB USB-C 3.2 GEN1 DRIVE BLEUE 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-64gb-usb-c-32-gen1-drive-bleue-64-go-usb-c-cle-usb-66254228) — CHF 24,90 — plus bas égalé
+68. [Integral CLE USB 64GB USB-C 3.2 GEN1 DRIVE ROSE 64 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-64gb-usb-c-32-gen1-drive-rose-64-go-usb-c-cle-usb-66254215) — CHF 25,90 — plus bas égalé
+69. [Integral CLE USB 32GB USB-C 3.2 GEN1 DRIVE BLEUE 32 Go, USB-C](https://www.galaxus.ch/fr/s1/product/cle-usb-32gb-usb-c-32-gen1-drive-bleue-32-go-usb-c-cle-usb-66254216) — CHF 19,90 — plus bas égalé
 
 _Analyse automatisée fondée sur l’historique de prix disponible chez Galaxus. Les prix peuvent changer._
